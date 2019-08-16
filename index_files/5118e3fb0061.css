@@ -1,0 +1,6331 @@
+/*.embedSpriteComment,
+.embedSpriteGlyph,
+.embedSpriteHeartOpen,
+.embedSpriteHeartOpenRed,
+.embedSpriteLogoLarge,
+.embedSpritePlayButton,
+.embedSpriteSaveOpen,
+.embedSpriteShare,
+.embedSpriteStoryRing,
+.embedSpriteVerifiedBadgeSmall,
+.embedSpriteWordmark {
+    background-image: url(../img/9a2fd73436e1.png)
+}*/
+
+.embedSpriteComment {
+    background-repeat: no-repeat !important;
+    background-position: -189px -103px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.embedSpriteGlyph,
+.embedSpriteHeartOpen,
+.embedSpriteHeartOpenRed {
+    background-repeat: no-repeat !important;
+    background-position: -277px -53px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.embedSpriteHeartOpen,
+.embedSpriteHeartOpenRed {
+    background-position: -225px -53px !important
+}
+
+.embedSpriteHeartOpenRed {
+    background-position: -251px -53px !important
+}
+
+.embedSpriteLogoLarge,
+.embedSpritePlayButton {
+    background-repeat: no-repeat !important;
+    background-position: -137px -53px !important;
+    height: 48px !important;
+    width: 48px !important
+}
+
+.embedSpritePlayButton {
+    background-position: 0 0 !important;
+    height: 135px !important;
+    width: 135px !important
+}
+
+.embedSpriteSaveOpen,
+.embedSpriteShare,
+.embedSpriteStoryRing {
+    background-repeat: no-repeat !important;
+    background-position: -137px -103px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.embedSpriteShare,
+.embedSpriteStoryRing {
+    background-position: -163px -103px !important
+}
+
+.embedSpriteStoryRing {
+    background-position: -187px -53px !important;
+    height: 36px !important;
+    width: 36px !important
+}
+
+.embedSpriteVerifiedBadgeSmall,
+.embedSpriteWordmark {
+    background-repeat: no-repeat !important;
+    background-position: -215px -103px !important;
+    height: 12px !important;
+    width: 12px !important
+}
+
+.embedSpriteWordmark {
+    background-position: -137px 0 !important;
+    height: 51px !important;
+    width: 175px !important
+}
+
+@media (min-device-pixel-ratio:1.5),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+
+    .embedSpriteGlyph,
+    .embedSpriteHeartOpen,
+    .embedSpriteHeartOpenRed,
+    .embedSpritePlayButton,
+    .embedSpriteSaveOpen,
+    .embedSpriteShare,
+    .embedSpriteStoryRing,
+    .embedSpriteVerifiedBadgeSmall {
+        background-image: url(../img/031e3f72ab64.png)
+    }*/
+
+    .embedSpriteComment,
+    .embedSpriteGlyph {
+        background-size: 172px 160px !important;
+        background-position: -136px -37px !important
+    }
+
+    .embedSpriteGlyph {
+        background-position: -136px -62px !important
+    }
+
+    .embedSpriteHeartOpen,
+    .embedSpriteHeartOpenRed {
+        background-size: 172px 160px !important;
+        background-position: -136px -87px !important
+    }
+
+    .embedSpriteHeartOpenRed {
+        background-position: 0 -136px !important
+    }
+
+    .embedSpritePlayButton,
+    .embedSpriteSaveOpen {
+        background-size: 172px 160px !important;
+        background-position: 0 0 !important
+    }
+
+    .embedSpriteSaveOpen {
+        background-position: -25px -136px !important
+    }
+
+    .embedSpriteShare,
+    .embedSpriteStoryRing {
+        background-size: 172px 160px !important;
+        background-position: -50px -136px !important
+    }
+
+    .embedSpriteStoryRing {
+        background-position: -136px 0 !important
+    }
+
+    .embedSpriteVerifiedBadgeSmall {
+        background-size: 172px 160px !important;
+        background-position: -136px -112px !important
+    }
+
+     !important
+}
+
+.Embed {
+    display: block !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+    text-align: left !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important
+}
+
+.Embed:hover {
+    cursor: pointer !important
+}
+
+.Embed a {
+    color: #262626 !important
+}
+
+.Embed a:hover {
+    text-decoration: underline !important
+}
+
+.Content {
+    padding-bottom: 100% !important;
+    position: relative !important
+}
+
+.EmbeddedMedia {
+    background-color: #fafafa !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    position: absolute !important;
+    right: 0 !important;
+    top: 0 !important
+}
+
+.EmbeddedMedia:active {
+    opacity: 1 !important
+}
+
+.EmbeddedMediaImage {
+    width: 100% !important;
+    height: 100% !important;
+    -o-object-fit: container !important;
+    object-fit: container !important;
+    pointer-events: none !important
+}
+
+.EmbedVisitInstagram {
+    color: #3897f0 !important;
+    font-weight: 550 !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+    margin-top: 24px !important
+}
+
+.EmbedVisitInstagram:hover {
+    text-decoration: none !important
+}
+
+.embedLogoItem {
+    -webkit-transform: scale(.71) !important;
+    transform: scale(.71)
+}
+
+.AvatarContainer,
+.Header {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-direction: normal !important;
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important
+}
+
+.Header {
+    height: 54px !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    padding: 10px !important
+}
+
+.AvatarContainer {
+    background-color: #fff !important;
+    padding: 2px !important;
+    border-radius: 50% !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-flex-direction: column !important;
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important
+}
+
+.Avatar {
+    display: block !important;
+    width: 30px !important;
+    height: 30px !important
+}
+
+.InsideRing {
+    position: absolute !important
+}
+
+.Avatar img {
+    border-radius: 50% !important;
+    width: 30px !important;
+    height: 30px !important
+}
+
+.Avatar:hover {
+    opacity: .5 !important
+}
+
+.StoryRing {
+    display: block !important
+}
+
+.HeaderText {
+    -webkit-box-align: start !important;
+    -webkit-align-items: flex-start !important;
+    -ms-flex-align: start !important;
+    align-items: flex-start !important;
+    -webkit-flex-shrink: 1 !important;
+    -ms-flex-negative: 1 !important;
+    flex-shrink: 1 !important;
+    margin: 0 10px !important;
+    overflow: hidden !important
+}
+
+.HeaderSecondaryContent {
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    color: #999 !important;
+    line-height: 14px !important;
+    font-size: 12px !important
+}
+
+.HeaderSecondaryContent>:before {
+    content: ' \00B7 ' !important;
+    display: inline-block !important;
+    margin-left: 4px !important;
+    margin-right: 4px !important
+}
+
+.HeaderSecondaryContent>:first-child:before {
+    display: none !important
+}
+
+@media (max-width:330px) {
+
+    .FollowerCountText:before,
+    .FromIGTV {
+        display: none !important
+    }
+
+     !important
+}
+
+.Username {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    font-weight: 600 !important;
+    text-overflow: ellipsis !important;
+    width: 100% !important;
+    white-space: nowrap !important
+}
+
+.LocationAndSponsor,
+.Username .UsernameText {
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important
+}
+
+.Username .UsernameText {
+    display: block !important;
+   /*  max-width: calc(100% - 21px) */
+}
+
+.LocationAndSponsor {
+    max-width: 100% !important
+}
+
+.VerifiedSprite {
+    margin-left: 5px !important;
+    width: 16px !important
+}
+
+.ViewProfileButton {
+    background-color: #3897f0 !important;
+    border-radius: 3px !important;
+    color: #fff !important;
+    -webkit-flex-shrink: 0 !important;
+    -ms-flex-negative: 0 !important;
+    flex-shrink: 0 !important;
+    font-weight: 600 !important;
+    margin-left: auto !important;
+    padding: 5px 12px !important;
+    text-decoration: none !important
+}
+
+.ViewProfileButton:hover {
+    background-color: #1372cc !important;
+    text-decoration: none !important
+}
+
+.ViewProfileButton .ViewProfileText {
+    display: inline !important
+}
+
+.Feedback,
+.Feedback span {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important
+}
+
+.Feedback {
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    padding: 8px 10px !important
+}
+
+.Feedback span {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    font-size: 80% !important;
+    text-decoration: none !important
+}
+
+.Comments,
+.Likes {
+    margin-right: 12px !important
+}
+
+.Likes .LikeSpriteHover {
+    display: none !important
+}
+
+.Likes:hover .LikeSpriteHover {
+    display: inline-block !important
+}
+
+.Comments:hover,
+.Glyph:hover,
+.Save:hover {
+    opacity: .5 !important
+}
+
+.Save {
+    margin-left: auto !important
+}
+
+.SocialProof {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    -webkit-box-align: start !important;
+    -webkit-align-items: flex-start !important;
+    -ms-flex-align: start !important;
+    align-items: flex-start !important;
+    padding: 0 10px 6px !important
+}
+
+.SocialProof {
+    font-weight: 600 !important
+}
+
+.Caption {
+    display: block !important;
+    line-height: 18px !important;
+    padding: 0 10px 10px !important
+}
+
+.CaptionComments {
+    display: block !important;
+    padding-top: 6px !important
+}
+
+.Caption a {
+    color: #003569 !important
+}
+
+.CaptionUsername {
+    color: #262626 !important;
+    font-weight: 600 !important;
+    margin: -5px 0 -5px -5px !important;
+    padding: 5px !important
+}
+
+.CaptionCommentsExpand {
+    color: #999 !important
+}
+
+.Footer {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    border-top: 1px solid #eee !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    height: 44px !important;
+    padding: 0 10px !important
+}
+
+.CommentInput {
+    color: #999 !important;
+    line-height: 17px !important;
+    font-size: 14px !important;
+    padding: 0 !important
+}
+
+.CommentInput,
+.CommentInput:hover {
+    text-decoration: none !important
+}
+
+.Glyph {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    margin-left: auto !important
+}
+
+.Sprite,
+.hidden,
+.hideText {
+    overflow: hidden !important;
+    text-indent: -99999em !important
+}
+
+.hidden {
+    height: 0 !important;
+    width: 0 !important
+}
+
+.Sprite {
+    display: inline-block !important
+}
+
+.EmbedFrame {
+    position: relative !important;
+    padding-bottom: 100% !important
+}
+
+.EmbedFrameWithSidecar .Image,
+.Likes:hover .LikeSprite {
+    display: none !important
+}
+
+.EmbedRichFrame {
+    background-color: #fff !important;
+    height: 100% !important;
+    position: absolute !important;
+    width: 100% !important
+}
+
+.WithSidecar .EmbedRichFrame {
+    height: calc(100% + 36px)
+}
+
+.PrimaryCTA {
+    background-color: #fff !important;
+    border-bottom: 1px solid #efefef !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    height: 44px !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    margin-left: 12px !important;
+    margin-right: 12px !important
+}
+
+.HoverCardStatus span,
+.PrimaryCTA {
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important
+}
+
+.PrimaryCTA {
+    font-weight: 600 !important;
+    color: #3897f0 !important;
+    font-size: 14px !important
+}
+
+.HoverCard .HoverCardRoot {
+    background-color: #fff !important;
+    border-top-left-radius: 3px !important;
+    border-top-right-radius: 3px !important;
+    bottom: 32px !important;
+    height: 0 !important;
+    left: 12px !important;
+    overflow: hidden !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+    padding-top: 12px !important;
+    position: absolute !important;
+    -webkit-transition: .25s ease-out !important;
+    transition: .25s ease-out !important;
+    width: 209px !important
+}
+
+.HoverCard:hover .HoverCardRoot {
+    height: 128px !important;
+    -webkit-transition: .25s ease-out !important;
+    transition: .25s ease-out !important
+}
+
+.HoverCardPhotos,
+.HoverCardProfile,
+.HoverCardStatus,
+.HoverCardUserName {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important
+}
+
+.HoverCardProfile img {
+    border-radius: 17px !important;
+    height: 34px !important;
+    margin-right: 12px !important;
+    width: 34px !important
+}
+
+.HoverCardUser {
+    width: 163px !important
+}
+
+.HoverCardUserName .Username {
+    color: #262626 !important;
+    -webkit-box-flex: 0 !important;
+    -webkit-flex-grow: 0 !important;
+    -ms-flex-positive: 0 !important;
+    flex-grow: 0 !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important
+}
+
+.HoverCardUserName .VerifiedSprite {
+    -webkit-flex-shrink: 0 !important;
+    -ms-flex-negative: 0 !important;
+    flex-shrink: 0 !important
+}
+
+.HoverCardStatus span {
+    color: #999 !important;
+    font-size: 12px !important
+}
+
+.HoverCardPhotos {
+    margin-top: 12px !important
+}
+
+.HoverCardPhotos img {
+    height: 104px !important;
+    margin-right: 1px !important;
+    width: 104px !important
+}
+
+.WatchOnInstagramContainer {
+    -webkit-font-smoothing: antialiased !important;
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    background-color: rgba(0, 0, 0, .5) !important;
+    bottom: 0 !important;
+    color: #fff !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    left: 0 !important;
+    position: absolute !important;
+    right: 0 !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5) !important;
+    top: 0 !important
+}
+
+.WatchOnInstagram {
+    margin-top: -10px !important;
+    margin-bottom: 20px !important
+}
+
+.EmbedBrokenMedia {
+    padding-top: 40% !important;
+    padding-bottom: 40% !important
+}
+
+.FollowerCountText {
+    color: #999 !important;
+    line-height: 14px !important;
+    font-size: 12px !important
+}
+
+.EmbedLogo {
+    display: block !important
+}
+
+.EmbedBrokenMedia {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    background-color: #fff !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: column !important;
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+    height: 100% !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    width: 100% !important
+}
+
+.ebmLogo {
+    margin-bottom: 16px !important
+}
+
+.ebmMessage {
+    color: #262626 !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 18px !important;
+    margin: 0 20px !important;
+    text-align: center !important;
+    width: 250px !important
+}
+
+.elSprite {
+    display: inline-block !important
+}
+
+.embedHideText {
+    display: block !important;
+    overflow: hidden !important;
+    text-indent: 110% !important;
+    white-space: nowrap !important
+}
+
+.embedNonTextLink:active {
+    opacity: 1 !important
+}
+
+.ZUqME {
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important
+}
+
+.pV7Qt {
+    border: 1px solid #e6e6e6 !important
+}
+
+._41V_T {
+    border-radius: 50% !important
+}
+
+._6Rvw2 {
+    border-radius: 4px !important
+}
+
+.Sapc9 {
+    background-color: #3897f0 !important
+}
+
+._6YLdr {
+    background-color: #dfefff !important
+}
+
+.tHaIX {
+    background-color: #fafafa !important
+}
+
+.QOqBd {
+    background-color: #efefef !important
+}
+
+.uKI5P {
+    background-color: #ed4956 !important
+}
+
+.DPiy6 {
+    background-color: #fff !important
+}
+
+.QzzMF {
+    display: block !important
+}
+
+.AC7dP {
+    display: inline-block !important
+}
+
+.L84MX {
+    display: none !important
+}
+
+.Zixx0 {
+    display: block !important;
+    overflow: hidden !important;
+    text-indent: 110% !important;
+    white-space: nowrap !important
+}
+
+.lKHVe {
+    -webkit-align-content: flex-start !important;
+    -ms-flex-line-pack: start !important;
+    align-content: flex-start !important
+}
+
+.vvR1w {
+    -webkit-align-content: flex-end !important;
+    -ms-flex-line-pack: end !important;
+    align-content: flex-end !important
+}
+
+.fXpnZ {
+    -webkit-align-content: center !important;
+    -ms-flex-line-pack: center !important;
+    align-content: center !important
+}
+
+.yhAVL {
+    -webkit-align-content: space-between !important;
+    -ms-flex-line-pack: justify !important;
+    align-content: space-between !important
+}
+
+.a65-- {
+    -webkit-align-content: space-around !important;
+    -ms-flex-line-pack: distribute !important;
+    align-content: space-around !important
+}
+
+.Igw0E {
+    -webkit-align-content: stretch !important;
+    -ms-flex-line-pack: stretch !important;
+    align-content: stretch !important
+}
+
+._56XdI {
+    -webkit-box-align: start !important;
+    -webkit-align-items: flex-start !important;
+    -ms-flex-align: start !important;
+    align-items: flex-start !important
+}
+
+.Xf6Yq {
+    -webkit-box-align: end !important;
+    -webkit-align-items: flex-end !important;
+    -ms-flex-align: end !important;
+    align-items: flex-end !important
+}
+
+.rBNOH {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important
+}
+
+.g-fE_ {
+    -webkit-box-align: baseline !important;
+    -webkit-align-items: baseline !important;
+    -ms-flex-align: baseline !important;
+    align-items: baseline !important
+}
+
+.IwRSH {
+    -webkit-box-align: stretch !important;
+    -webkit-align-items: stretch !important;
+    -ms-flex-align: stretch !important;
+    align-items: stretch !important
+}
+
+.c4MQN {
+    -webkit-align-self: flex-start !important;
+    -ms-flex-item-align: start !important;
+    align-self: flex-start !important
+}
+
+.KB4CO {
+    -webkit-align-self: flex-end !important;
+    -ms-flex-item-align: end !important;
+    align-self: flex-end !important
+}
+
+.pmxbr {
+    -webkit-align-self: center !important;
+    -ms-flex-item-align: center !important;
+    align-self: center !important
+}
+
+.b8MSm {
+    -webkit-align-self: baseline !important;
+    -ms-flex-item-align: baseline !important;
+    align-self: baseline !important
+}
+
+.G71rz {
+    -webkit-align-self: stretch !important;
+    -ms-flex-item-align: stretch !important;
+    align-self: stretch !important
+}
+
+.j6NZI,
+.q0n74,
+.ybXk5 {
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important
+}
+
+.j6NZI,
+.q0n74 {
+    -webkit-box-direction: reverse !important;
+    -webkit-flex-direction: row-reverse !important;
+    -ms-flex-direction: row-reverse !important;
+    flex-direction: row-reverse !important
+}
+
+.j6NZI {
+    -webkit-box-orient: vertical !important;
+    -webkit-flex-direction: column-reverse !important;
+    -ms-flex-direction: column-reverse !important;
+    flex-direction: column-reverse !important
+}
+
+.eGOV_ {
+    -webkit-box-pack: start !important;
+    -webkit-justify-content: flex-start !important;
+    -ms-flex-pack: start !important;
+    justify-content: flex-start !important
+}
+
+.hLiUi {
+    -webkit-box-pack: end !important;
+    -webkit-justify-content: flex-end !important;
+    -ms-flex-pack: end !important;
+    justify-content: flex-end !important
+}
+
+.YBx95 {
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important
+}
+
+.CcYR1 {
+    -webkit-box-pack: justify !important;
+    -webkit-justify-content: space-between !important;
+    -ms-flex-pack: justify !important;
+    justify-content: space-between !important
+}
+
+.J0Xm8 {
+    -webkit-justify-content: space-around !important;
+    -ms-flex-pack: distribute !important;
+    justify-content: space-around !important
+}
+
+.vwCYk {
+    -webkit-box-flex: 1 !important;
+    -webkit-flex: 1 1 auto !important;
+    -ms-flex: 1 1 auto !important;
+    flex: 1 1 auto !important;
+    min-height: 0 !important;
+    min-width: 0 !important
+}
+
+._4EzTm,
+.ui_ht {
+    -webkit-box-flex: 0 !important;
+    -webkit-flex: 0 0 auto !important;
+    -ms-flex: 0 0 auto !important;
+    flex: 0 0 auto !important
+}
+
+.ui_ht {
+    -webkit-flex: 0 1 auto !important;
+    -ms-flex: 0 1 auto !important;
+    flex: 0 1 auto !important
+}
+
+.YlhBV {
+    -webkit-flex-wrap: wrap !important;
+    -ms-flex-wrap: wrap !important;
+    flex-wrap: wrap !important
+}
+
+.pjcA_ {
+    margin-bottom: 4px !important
+}
+
+.bkEs3 {
+    margin-bottom: 8px !important
+}
+
+._22l1 {
+    margin-bottom: 12px !important
+}
+
+.MGdpg {
+    margin-bottom: 16px !important
+}
+
+.oxOrt {
+    margin-bottom: 20px !important
+}
+
+.FBi-h {
+    margin-bottom: 24px !important
+}
+
+.a39_R {
+    margin-bottom: 28px !important
+}
+
+.qD5Mv {
+    margin-bottom: 32px !important
+}
+
+.aftyv {
+    margin-bottom: 36px !important
+}
+
+.f9hD0 {
+    margin-bottom: 40px !important
+}
+
+.MGky5 {
+    margin-bottom: 44px !important
+}
+
+._7J5l7 {
+    margin-bottom: 48px !important
+}
+
+.KokQV {
+    margin-bottom: 52px !important
+}
+
+.bm-qU {
+    margin-bottom: 56px !important
+}
+
+.oaeHW {
+    margin-bottom: 60px !important
+}
+
+.U2erN {
+    margin-bottom: 64px !important
+}
+
+._7eH1b {
+    margin-bottom: 68px !important
+}
+
+.gL6fO {
+    margin-bottom: auto !important
+}
+
+.WKY0a {
+    margin-left: 4px !important
+}
+
+.soMvl {
+    margin-left: 8px !important
+}
+
+.n4cjz {
+    margin-left: 12px !important
+}
+
+._5VUwz {
+    margin-left: 16px !important
+}
+
+.bPdm3 {
+    margin-left: 20px !important
+}
+
+.XlcGs {
+    margin-left: 24px !important
+}
+
+.dE4iQ {
+    margin-left: 28px !important
+}
+
+.gT2s8 {
+    margin-left: 32px !important
+}
+
+._6Nb0I {
+    margin-left: 36px !important
+}
+
+.CovQj {
+    margin-left: 40px !important
+}
+
+.K7QFQ {
+    margin-left: 44px !important
+}
+
+.Qjx67 {
+    margin-left: 48px !important
+}
+
+.GsRgD {
+    margin-left: 52px !important
+}
+
+.auMjJ {
+    margin-left: 56px !important
+}
+
+.eYEtZ {
+    margin-left: 60px !important
+}
+
+.mTDe1 {
+    margin-left: 64px !important
+}
+
+.M2CRh {
+    margin-left: 68px !important
+}
+
+.CIRqI {
+    margin-left: auto !important
+}
+
+.ItkAi {
+    margin-right: 4px !important
+}
+
+.JI_ht {
+    margin-right: 8px !important
+}
+
+.yC0tu {
+    margin-right: 12px !important
+}
+
+.y2rAt {
+    margin-right: 16px !important
+}
+
+.BGYmY {
+    margin-right: 20px !important
+}
+
+.ZEe2i {
+    margin-right: 24px !important
+}
+
+.cb9w7 {
+    margin-right: 28px !important
+}
+
+.ApndJ {
+    margin-right: 32px !important
+}
+
+._748V- {
+    margin-right: 36px !important
+}
+
+.jKUp7 {
+    margin-right: 40px !important
+}
+
+._6wM3Z {
+    margin-right: 44px !important
+}
+
+.Z5VSw {
+    margin-right: 48px !important
+}
+
+.LHwVS {
+    margin-right: 52px !important
+}
+
+.TpD3c {
+    margin-right: 56px !important
+}
+
+.NNlRo {
+    margin-right: 60px !important
+}
+
+.YJVmG {
+    margin-right: 64px !important
+}
+
+.h_CCK {
+    margin-right: 68px !important
+}
+
+.IY_1_ {
+    margin-right: auto !important
+}
+
+.iHqQ7 {
+    margin-top: 4px !important
+}
+
+.DhRcB {
+    margin-top: 8px !important
+}
+
+._49XvD {
+    margin-top: 12px !important
+}
+
+.aGBdT {
+    margin-top: 16px !important
+}
+
+.gKUEf {
+    margin-top: 20px !important
+}
+
+.kEKum {
+    margin-top: 24px !important
+}
+
+._55Ud {
+    margin-top: 28px !important
+}
+
+.dQ9Hi {
+    margin-top: 32px !important
+}
+
+.UU_bp {
+    margin-top: 36px !important
+}
+
+.yMvbc {
+    margin-top: 40px !important
+}
+
+.lKyay {
+    margin-top: 44px !important
+}
+
+.IM32b {
+    margin-top: 48px !important
+}
+
+.G00MQ {
+    margin-top: 52px !important
+}
+
+.KwoG5 {
+    margin-top: 56px !important
+}
+
+.sn5rQ {
+    margin-top: 60px !important
+}
+
+.rVxZD {
+    margin-top: 64px !important
+}
+
+.aAhnZ {
+    margin-top: 68px !important
+}
+
+.AxUK4 {
+    margin-top: auto !important
+}
+
+.O1flK {
+    bottom: 0 !important
+}
+
+.D8xaz {
+    left: 0 !important
+}
+
+.fm1AK {
+    position: absolute !important
+}
+
+._7JkPY {
+    position: fixed !important
+}
+
+.NUiEW {
+    position: relative !important
+}
+
+.TxciK {
+    right: 0 !important
+}
+
+.yiMZG {
+    top: 0 !important
+}
+
+.lDRO1 {
+    overflow: auto !important;
+    -webkit-overflow-scrolling: touch !important
+}
+
+.i0EQd {
+    overflow: hidden !important
+}
+
+.HNKpc,
+._3g6ee,
+._3wFWr {
+    -webkit-overflow-scrolling: touch !important
+}
+
+.HNKpc {
+    overflow: scroll !important
+}
+
+._3g6ee,
+._3wFWr {
+    overflow-x: scroll !important;
+    overflow-y: hidden !important
+}
+
+._3wFWr {
+    overflow-x: hidden !important;
+    overflow-y: scroll !important
+}
+
+.zQLcH {
+    padding-left: 4px !important;
+    padding-right: 4px !important
+}
+
+.lC6p0 {
+    padding-left: 8px !important;
+    padding-right: 8px !important
+}
+
+.BI4qX {
+    padding-left: 12px !important;
+    padding-right: 12px !important
+}
+
+.XfCBB {
+    padding-left: 16px !important;
+    padding-right: 16px !important
+}
+
+.L-sTb {
+    padding-left: 20px !important;
+    padding-right: 20px !important
+}
+
+.T9mq- {
+    padding-left: 24px !important;
+    padding-right: 24px !important
+}
+
+.yV-Ex {
+    padding-left: 28px !important;
+    padding-right: 28px !important
+}
+
+.c420d {
+    padding-left: 32px !important;
+    padding-right: 32px !important
+}
+
+._69oMM {
+    padding-left: 36px !important;
+    padding-right: 36px !important
+}
+
+.pwoi_ {
+    padding-left: 40px !important;
+    padding-right: 40px !important
+}
+
+._9Gu4M {
+    padding-left: 44px !important;
+    padding-right: 44px !important
+}
+
+.iNp2o {
+    padding-left: 48px !important;
+    padding-right: 48px !important
+}
+
+.XTCZH {
+    padding-bottom: 4px !important;
+    padding-top: 4px !important
+}
+
+.HVWg4 {
+    padding-bottom: 8px !important;
+    padding-top: 8px !important
+}
+
+.qJPeX {
+    padding-bottom: 12px !important;
+    padding-top: 12px !important
+}
+
+.g6RW6 {
+    padding-bottom: 16px !important;
+    padding-top: 16px !important
+}
+
+.HcJZg {
+    padding-bottom: 20px !important;
+    padding-top: 20px !important
+}
+
+.nGS-Y {
+    padding-bottom: 24px !important;
+    padding-top: 24px !important
+}
+
+.zPcO_ {
+    padding-bottom: 28px !important;
+    padding-top: 28px !important
+}
+
+.D8UUo {
+    padding-bottom: 32px !important;
+    padding-top: 32px !important
+}
+
+.qJdj7 {
+    padding-bottom: 36px !important;
+    padding-top: 36px !important
+}
+
+.xUzvG {
+    padding-bottom: 40px !important;
+    padding-top: 40px !important
+}
+
+.sKZwS {
+    padding-bottom: 44px !important;
+    padding-top: 44px !important
+}
+
+.PUBS- {
+    padding-bottom: 48px !important;
+    padding-top: 48px !important
+}
+
+.sqdOP {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    background: 0 0 !important;
+    border: 0 !important;
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    cursor: pointer !important;
+    display: block !important;
+    font-weight: 600 !important;
+    padding: 5px 9px !important;
+    text-align: center !important;
+    text-transform: inherit !important;
+    text-overflow: ellipsis !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    white-space: nowrap !important;
+    width: auto !important
+}
+
+.sqdOP:active {
+    opacity: .7 !important
+}
+
+.sqdOP[disabled] {
+    pointer-events: none !important
+}
+
+.sqdOP[disabled]:not(.A086a) {
+    opacity: .3 !important
+}
+
+.L3NKy,
+.L3NKy,
+.L3NKy:visited {
+    background-color: #3897f0 !important;
+    border: 1px solid #3897f0 !important;
+    border-radius: 4px !important;
+    color: #fff !important;
+    position: relative !important
+}
+
+._4pI4F {
+    width: 100% !important
+}
+
+.sH_mn,
+.sH_mn,
+.sH_mn:visited {
+    background-color: transparent !important;
+    border: 1px solid #ed4956 !important;
+    color: #ed4956 !important
+}
+
+._8A5w5,
+._8A5w5,
+._8A5w5:visited {
+    background-color: transparent !important;
+    border: 1px solid #dbdbdb !important;
+    color: #262626 !important
+}
+
+.y1rQx,
+.y1rQx,
+.y1rQx:visited {
+    background-color: transparent !important;
+    border: 1px solid #fff !important;
+    color: #fff !important
+}
+
+.cB_4K {
+    padding: 12px 18px !important
+}
+
+.yWX7d.cB_4K,
+.yWX7d.cB_4K {
+    font-size: 16px !important
+}
+
+.yWX7d,
+.yWX7d:visited,
+.yWX7d,
+.yWX7d:visited {
+    border: 0 !important;
+    color: #3897f0 !important;
+    display: inline !important;
+    padding: 0 !important
+}
+
+.yWX7d.sH_mn,
+.yWX7d.sH_mn,
+.yWX7d.sH_mn:visited {
+    color: #ed4956 !important
+}
+
+.yWX7d._8A5w5,
+.yWX7d._8A5w5,
+.yWX7d._8A5w5:visited {
+    color: #262626 !important
+}
+
+.yWX7d.y1rQx,
+.yWX7d.y1rQx,
+.yWX7d.y1rQx:visited {
+    color: #fff !important
+}
+
+.ZIAjV {
+    -webkit-user-select: auto !important;
+    -moz-user-select: auto !important;
+    -ms-user-select: auto !important;
+    user-select: auto !important
+}
+
+.A086a,
+.yWX7d.A086a {
+    color: transparent !important
+}
+
+@-webkit-keyframes IGCoreSpinnerSpin8 {
+    0% {
+        -webkit-transform: rotate(180deg) !important;
+        transform: rotate(180deg)
+    }
+
+    to {
+        -webkit-transform: rotate(540deg) !important;
+        transform: rotate(540deg)
+    }
+
+     !important
+}
+
+@keyframes IGCoreSpinnerSpin8 {
+    0% {
+        -webkit-transform: rotate(180deg) !important;
+        transform: rotate(180deg)
+    }
+
+    to {
+        -webkit-transform: rotate(540deg) !important;
+        transform: rotate(540deg)
+    }
+
+     !important
+}
+
+@-webkit-keyframes IGCoreSpinnerSpin12 {
+    0% {
+        -webkit-transform: rotate(0deg) !important;
+        transform: rotate(0deg)
+    }
+
+    to {
+        -webkit-transform: rotate(360deg) !important;
+        transform: rotate(360deg)
+    }
+
+     !important
+}
+
+@keyframes IGCoreSpinnerSpin12 {
+    0% {
+        -webkit-transform: rotate(0deg) !important;
+        transform: rotate(0deg)
+    }
+
+    to {
+        -webkit-transform: rotate(360deg) !important;
+        transform: rotate(360deg)
+    }
+
+     !important
+}
+
+.FSiF6 {
+    -webkit-animation: IGCoreSpinnerSpin8 .8s steps(8) infinite !important;
+    animation: IGCoreSpinnerSpin8 .8s steps(8) infinite !important
+}
+
+.By4nA {
+    -webkit-animation: IGCoreSpinnerSpin12 1.2s steps(12) infinite !important;
+    animation: IGCoreSpinnerSpin12 1.2s steps(12) infinite !important
+}
+
+._9qQ0O {
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+    -webkit-transform: translate(-50%, -50%) !important;
+    transform: translate(-50%, -50%)
+}
+
+._0mzm-,
+._0mzm- * {
+    outline: 0 !important
+}
+
+.FuWoR {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    background: 0 0 !important;
+    border-radius: 50% !important;
+    border-style: solid !important;
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    display: -webkit-inline-box !important;
+    display: -webkit-inline-flex !important;
+    display: -ms-inline-flexbox !important;
+    display: inline-flex !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    position: relative !important
+}
+
+.-wdIA {
+    border-color: #262626 !important
+}
+
+.j44N4 {
+    border-color: #efefef !important
+}
+
+.zUbsF {
+    border-color: #4f67b0 !important
+}
+
+.x7xX2,
+.zlwcS {
+    border-width: 1px !important
+}
+
+.A2kdl {
+    border-width: 2px !important
+}
+
+@media (-webkit-min-device-pixel-ratio:2),
+(min-resolution:2dppx) {
+    .x7xX2 {
+        border: 0 !important
+    }
+
+    .x7xX2::after {
+        border-radius: 50% !important;
+        border: 3px solid !important;
+        -webkit-box-sizing: border-box !important;
+        box-sizing: border-box !important;
+        content: '' !important;
+        height: 200% !important;
+        left: 0 !important;
+        position: absolute !important;
+        top: 0 !important;
+        -webkit-transform-origin: top left !important;
+        transform-origin: top left !important;
+        -webkit-transform: scale(.5) !important;
+        transform: scale(.5) !important;
+        width: 200% !important
+    }
+
+    .j44N4.x7xX2::after {
+        border-color: #efefef !important
+    }
+
+    .-wdI.x7xX2::after {
+        border-color: #262626 !important
+    }
+
+    .zUbsF.x7xX2::after {
+        border-color: #4f67b0 !important
+    }
+
+     !important
+}
+
+.u-__7 {
+    display: block !important
+}
+
+.wellbeingSpriteTwo_fac_code,
+.wellbeingSpriteTwo_fac_lock,
+.wellbeingSpriteTwo_fac_on,
+.wellbeingSpriteTwo_fac_password,
+.wellbeingSpriteTwo_fac_sync {
+    background-image: url(../img/sprite_wellbeing_6af9c5060ebc.png/6af9c5060ebc.png)
+}
+
+.wellbeingSpriteTwo_fac_code {
+    background-repeat: no-repeat !important;
+    background-position: -92px 0 !important;
+    height: 48px !important;
+    width: 48px !important
+}
+
+.wellbeingSpriteTwo_fac_lock,
+.wellbeingSpriteTwo_fac_on {
+    background-repeat: no-repeat !important;
+    background-position: 0 0 !important;
+    height: 48px !important;
+    width: 90px !important
+}
+
+.wellbeingSpriteTwo_fac_on {
+    background-position: -92px -50px !important;
+    width: 48px !important
+}
+
+.wellbeingSpriteTwo_fac_password,
+.wellbeingSpriteTwo_fac_sync {
+    background-repeat: no-repeat !important;
+    background-position: 0 -50px !important;
+    height: 66px !important;
+    width: 48px !important
+}
+
+.wellbeingSpriteTwo_fac_sync {
+    background-position: -142px 0 !important;
+    height: 48px !important
+}
+
+@media (min-device-pixel-ratio:1.5),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+
+    .wellbeingSpriteTwo_fac_code,
+    .wellbeingSpriteTwo_fac_lock,
+    .wellbeingSpriteTwo_fac_on,
+    .wellbeingSpriteTwo_fac_password,
+    .wellbeingSpriteTwo_fac_sync {
+        background-image: url(../img/sprite_wellbeing_2x_c0241d394c59.png/c0241d394c59.png)
+    }
+
+    .wellbeingSpriteTwo_fac_code {
+        background-size: 188px 115px !important;
+        background-position: -91px 0 !important
+    }
+
+    .wellbeingSpriteTwo_fac_lock,
+    .wellbeingSpriteTwo_fac_on {
+        background-size: 188px 115px !important;
+        background-position: 0 0 !important
+    }
+
+    .wellbeingSpriteTwo_fac_on {
+        background-position: -91px -49px !important
+    }
+
+    .wellbeingSpriteTwo_fac_password {
+        background-size: 188px 115px !important;
+        background-position: 0 -49px !important
+    }
+
+    .wellbeingSpriteTwo_fac_sync {
+        background-size: 188px 115px !important;
+        background-position: -140px 0 !important
+    }
+
+     !important
+}
+
+.storiesSpriteChisel__filled__44,
+.storiesSpriteChisel__outline__44,
+.storiesSpriteDownload__filled__44,
+.storiesSpriteDrawing_tools__filled__44,
+.storiesSpriteEraser__filled__44,
+.storiesSpriteEraser__outline__44,
+.storiesSpriteMagic__filled__44,
+.storiesSpriteMagic__outline__44,
+.storiesSpriteMarker__filled__44,
+.storiesSpriteMarker__outline__44,
+.storiesSpriteNew_story__outline__24__grey_0,
+.storiesSpriteSticker__outline__44,
+.storiesSpriteText__filled__44,
+.storiesSpriteX__outline__44 {
+    background-image: url(../img/sprite_stories_995e9bcf0ba7.png/995e9bcf0ba7.png)
+}
+
+.storiesSpriteChisel__filled__44,
+.storiesSpriteChisel__outline__44 {
+    background-repeat: no-repeat !important;
+    background-position: -46px 0 !important;
+    height: 44px !important;
+    width: 44px !important
+}
+
+.storiesSpriteChisel__outline__44 {
+    background-position: -46px -92px !important
+}
+
+.storiesSpriteDownload__filled__44,
+.storiesSpriteDrawing_tools__filled__44 {
+    background-repeat: no-repeat !important;
+    background-position: 0 -46px !important;
+    height: 44px !important;
+    width: 44px !important
+}
+
+.storiesSpriteDrawing_tools__filled__44 {
+    background-position: -46px -46px !important
+}
+
+.storiesSpriteEraser__filled__44,
+.storiesSpriteEraser__outline__44 {
+    background-repeat: no-repeat !important;
+    background-position: -92px 0 !important;
+    height: 44px !important;
+    width: 44px !important
+}
+
+.storiesSpriteEraser__outline__44 {
+    background-position: -92px -46px !important
+}
+
+.storiesSpriteMagic__filled__44,
+.storiesSpriteMagic__outline__44 {
+    background-repeat: no-repeat !important;
+    background-position: 0 -92px !important;
+    height: 44px !important;
+    width: 44px !important
+}
+
+.storiesSpriteMagic__outline__44 {
+    background-position: 0 0 !important
+}
+
+.storiesSpriteMarker__filled__44,
+.storiesSpriteMarker__outline__44 {
+    background-repeat: no-repeat !important;
+    background-position: -92px -92px !important;
+    height: 44px !important;
+    width: 44px !important
+}
+
+.storiesSpriteMarker__outline__44 {
+    background-position: -138px 0 !important
+}
+
+.storiesSpriteNew_story__outline__24__grey_0 {
+    background-repeat: no-repeat !important;
+    background-position: -46px -138px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.storiesSpriteSticker__outline__44 {
+    background-repeat: no-repeat !important;
+    background-position: -138px -92px !important;
+    height: 44px !important;
+    width: 44px !important
+}
+
+.storiesSpriteText__filled__44,
+.storiesSpriteX__outline__44 {
+    background-repeat: no-repeat !important;
+    background-position: -138px -46px !important;
+    height: 44px !important;
+    width: 44px !important
+}
+
+.storiesSpriteX__outline__44 {
+    background-position: 0 -138px !important
+}
+
+@media (min-device-pixel-ratio:1.5),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+
+    .storiesSpriteChisel__filled__44,
+    .storiesSpriteChisel__outline__44,
+    .storiesSpriteDownload__filled__44,
+    .storiesSpriteDrawing_tools__filled__44,
+    .storiesSpriteEraser__filled__44,
+    .storiesSpriteEraser__outline__44,
+    .storiesSpriteMagic__filled__44,
+    .storiesSpriteMagic__outline__44,
+    .storiesSpriteMarker__filled__44,
+    .storiesSpriteMarker__outline__44,
+    .storiesSpriteNew_story__outline__24__grey_0,
+    .storiesSpriteSticker__outline__44,
+    .storiesSpriteText__filled__44,
+    .storiesSpriteX__outline__44 {
+        background-image: url(../img/sprite_stories_2x_4bbb2e7b5b0d.png/4bbb2e7b5b0d.png)
+    }
+
+    .storiesSpriteChisel__filled__44 {
+        background-size: 179px 179px !important;
+        background-position: -45px 0 !important
+    }
+
+    .storiesSpriteChisel__outline__44 {
+        background-size: 179px 179px !important;
+        background-position: -45px -90px !important
+    }
+
+    .storiesSpriteDownload__filled__44 {
+        background-size: 179px 179px !important;
+        background-position: 0 -45px !important
+    }
+
+    .storiesSpriteDrawing_tools__filled__44 {
+        background-size: 179px 179px !important;
+        background-position: -45px -45px !important
+    }
+
+    .storiesSpriteEraser__filled__44 {
+        background-size: 179px 179px !important;
+        background-position: -90px 0 !important
+    }
+
+    .storiesSpriteEraser__outline__44 {
+        background-size: 179px 179px !important;
+        background-position: -90px -45px !important
+    }
+
+    .storiesSpriteMagic__filled__44 {
+        background-size: 179px 179px !important;
+        background-position: 0 -90px !important
+    }
+
+    .storiesSpriteMagic__outline__44 {
+        background-size: 179px 179px !important;
+        background-position: 0 0 !important
+    }
+
+    .storiesSpriteMarker__filled__44 {
+        background-size: 179px 179px !important;
+        background-position: -90px -90px !important
+    }
+
+    .storiesSpriteMarker__outline__44 {
+        background-size: 179px 179px !important;
+        background-position: -135px 0 !important
+    }
+
+    .storiesSpriteNew_story__outline__24__grey_0 {
+        background-size: 179px 179px !important;
+        background-position: -45px -135px !important
+    }
+
+    .storiesSpriteSticker__outline__44 {
+        background-size: 179px 179px !important;
+        background-position: -135px -90px !important
+    }
+
+    .storiesSpriteText__filled__44 {
+        background-size: 179px 179px !important;
+        background-position: -135px -45px !important
+    }
+
+    .storiesSpriteX__outline__44 {
+        background-size: 179px 179px !important;
+        background-position: 0 -135px !important
+    }
+
+     !important
+}
+
+.nametagSpriteNT_Contrast,
+.nametagSpriteNT_Corners,
+.nametagSpriteNT_Pixels {
+    background-image: url(../img/sprite_nametag_ff60b6c57870.png/ff60b6c57870.png) !important;
+    background-repeat: no-repeat !important;
+    background-position: 0 0 !important;
+    height: 120px !important;
+    width: 120px !important
+}
+
+.nametagSpriteNT_Corners,
+.nametagSpriteNT_Pixels {
+    background-position: -122px 0 !important
+}
+
+.nametagSpriteNT_Pixels {
+    background-position: 0 -122px !important
+}
+
+@media (min-device-pixel-ratio:1.5),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+
+    .nametagSpriteNT_Contrast,
+    .nametagSpriteNT_Corners,
+    .nametagSpriteNT_Pixels {
+        background-image: url(../img/sprite_nametag_2x_69c195e9ff3c.png/69c195e9ff3c.png)
+    }
+
+    .nametagSpriteNT_Contrast {
+        background-size: 241px 241px !important;
+        background-position: 0 0 !important
+    }
+
+    .nametagSpriteNT_Corners,
+    .nametagSpriteNT_Pixels {
+        background-size: 241px 241px !important;
+        background-position: -121px 0 !important
+    }
+
+    .nametagSpriteNT_Pixels {
+        background-position: 0 -121px !important
+    }
+
+     !important
+}
+
+.mediatypesSpriteCarousel__filled__32,
+.mediatypesSpriteIgtv__filled__32,
+.mediatypesSpriteVideo__filled__32 {
+    background-image: url(../img/sprite_mediatypes_65c15d7731e.png/65c15d7731e.png)
+}
+
+.mediatypesSpriteCarousel__filled__32 {
+    background-repeat: no-repeat !important;
+    background-position: 0 0 !important;
+    height: 32px !important;
+    width: 32px !important
+}
+
+.mediatypesSpriteIgtv__filled__32,
+.mediatypesSpriteVideo__filled__32 {
+    background-repeat: no-repeat !important;
+    background-position: -34px 0 !important;
+    height: 32px !important;
+    width: 32px !important
+}
+
+.mediatypesSpriteVideo__filled__32 {
+    background-position: 0 -34px !important
+}
+
+@media (min-device-pixel-ratio:1.5),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+
+    .mediatypesSpriteCarousel__filled__32,
+    .mediatypesSpriteIgtv__filled__32,
+    .mediatypesSpriteVideo__filled__32 {
+        background-image: url(../img/sprite_mediatypes_2x_3be21f338c88.png/3be21f338c88.png)
+    }
+
+    .mediatypesSpriteCarousel__filled__32 {
+        background-size: 65px 65px !important;
+        background-position: 0 0 !important
+    }
+
+    .mediatypesSpriteIgtv__filled__32 {
+        background-size: 65px 65px !important;
+        background-position: -33px 0 !important
+    }
+
+    .mediatypesSpriteVideo__filled__32 {
+        background-size: 65px 65px !important;
+        background-position: 0 -33px !important
+    }
+
+     !important
+}
+
+.loggedoutSpriteComment_Contextual_Login,
+.loggedoutSpriteFollow_Contextual_Login,
+.loggedoutSpriteGlyph_Contextual_Login,
+.loggedoutSpriteLike_Contextual_Login,
+.loggedoutSpriteSave_Contextual_Login {
+    background-image: url(../img/sprite_loggedout_995ea10178c7.png/995ea10178c7.png)
+}
+
+.loggedoutSpriteComment_Contextual_Login,
+.loggedoutSpriteFollow_Contextual_Login {
+    background-repeat: no-repeat !important;
+    background-position: -46px 0 !important;
+    height: 36px !important;
+    width: 36px !important
+}
+
+.loggedoutSpriteFollow_Contextual_Login {
+    background-position: 0 -46px !important
+}
+
+.loggedoutSpriteGlyph_Contextual_Login {
+    background-repeat: no-repeat !important;
+    background-position: 0 0 !important;
+    height: 44px !important;
+    width: 44px !important
+}
+
+.loggedoutSpriteLike_Contextual_Login,
+.loggedoutSpriteSave_Contextual_Login {
+    background-repeat: no-repeat !important;
+    background-position: -38px -46px !important;
+    height: 36px !important;
+    width: 36px !important
+}
+
+.loggedoutSpriteSave_Contextual_Login {
+    background-position: -84px 0 !important
+}
+
+@media (min-device-pixel-ratio:1.5),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+
+    .loggedoutSpriteComment_Contextual_Login,
+    .loggedoutSpriteFollow_Contextual_Login,
+    .loggedoutSpriteGlyph_Contextual_Login,
+    .loggedoutSpriteLike_Contextual_Login,
+    .loggedoutSpriteSave_Contextual_Login {
+        background-image: url(../img/sprite_loggedout_2x_839e62b1415f.png/839e62b1415f.png)
+    }
+
+    .loggedoutSpriteComment_Contextual_Login {
+        background-size: 118px 81px !important;
+        background-position: -45px 0 !important
+    }
+
+    .loggedoutSpriteFollow_Contextual_Login {
+        background-size: 118px 81px !important;
+        background-position: 0 -45px !important
+    }
+
+    .loggedoutSpriteGlyph_Contextual_Login {
+        background-size: 118px 81px !important;
+        background-position: 0 0 !important
+    }
+
+    .loggedoutSpriteLike_Contextual_Login {
+        background-size: 118px 81px !important;
+        background-position: -37px -45px !important
+    }
+
+    .loggedoutSpriteSave_Contextual_Login {
+        background-size: 118px 81px !important;
+        background-position: -82px 0 !important
+    }
+
+     !important
+}
+
+.glyphsSpriteAdd__outline__24__blue_5,
+.glyphsSpriteAdd__outline__24__grey_9,
+.glyphsSpriteApp_Icon,
+.glyphsSpriteApp_Icon_Mobile,
+.glyphsSpriteApp_instagram__outline__24__grey_9,
+.glyphsSpriteApp_messenger__outline__24__grey_9,
+.glyphsSpriteApp_twitter__outline__24__grey_9,
+.glyphsSpriteCall__outline__24__grey_9,
+.glyphsSpriteCamera__outline__24__grey_9,
+.glyphsSpriteChevron_left__outline__24__grey_9,
+.glyphsSpriteChevron_right__outline__24__grey_5,
+.glyphsSpriteCircle__outline__24__grey_2,
+.glyphsSpriteCircle_add__outline__24__grey_5,
+.glyphsSpriteCircle_add__outline__24__grey_9,
+.glyphsSpriteCircle_check__filled__24__blue_5,
+.glyphsSpriteComment__outline__24__grey_9,
+.glyphsSpriteComment_like,
+.glyphsSpriteComment_like_active,
+.glyphsSpriteContact_import,
+.glyphsSpriteContact_import_sm,
+.glyphsSpriteDelete__outline__24__grey_0,
+.glyphsSpriteDirect__outline__24__grey_0,
+.glyphsSpriteDirect__outline__24__grey_9,
+.glyphsSpriteDirect_glyph_heart,
+.glyphsSpriteFB_Logo,
+.glyphsSpriteFacebook__filled__24__fb_connect_blue,
+.glyphsSpriteFacebook__outline__24__grey_9,
+.glyphsSpriteGlyph_heart_media,
+.glyphsSpriteGlyph_heart_media_outline,
+.glyphsSpriteGrey_Close,
+.glyphsSpriteHashtag__outline__24__grey_9,
+.glyphsSpriteHeart__filled__24__grey_9,
+.glyphsSpriteHeart__filled__24__red_5,
+.glyphsSpriteHeart__outline__24__grey_9,
+.glyphsSpriteHome__filled__24__grey_9,
+.glyphsSpriteHome__outline__24__grey_9,
+.glyphsSpriteIgtv__outline__24__blue_5,
+.glyphsSpriteIgtv__outline__24__grey_5,
+.glyphsSpriteInfo__outline__24__grey_9,
+.glyphsSpriteInput_clear,
+.glyphsSpriteLink__outline__24__grey_9,
+.glyphsSpriteLite_app_icon,
+.glyphsSpriteLocation__outline__24__grey_9,
+.glyphsSpriteLock__outline__24__grey_9,
+.glyphsSpriteLogged_Out_QP_Glyph,
+.glyphsSpriteMail__outline__24__grey_9,
+.glyphsSpriteMobile_nav_type_logo,
+.glyphsSpriteMore_horizontal__filled__24__grey_0,
+.glyphsSpriteMore_horizontal__outline__24__grey_5,
+.glyphsSpriteMore_horizontal__outline__24__grey_9,
+.glyphsSpriteNew_post__outline__24__grey_9,
+.glyphsSpritePaging_chevron,
+.glyphsSpritePhoto__outline__24__grey_9,
+.glyphsSpritePhoto_grid__outline__24__blue_5,
+.glyphsSpritePhoto_grid__outline__24__grey_5,
+.glyphsSpritePhoto_list__outline__24__blue_5,
+.glyphsSpritePhoto_list__outline__24__grey_5,
+.glyphsSpriteSafari__outline__24__grey_9,
+.glyphsSpriteSave__filled__24__grey_9,
+.glyphsSpriteSave__outline__24__blue_5,
+.glyphsSpriteSave__outline__24__grey_5,
+.glyphsSpriteSave__outline__24__grey_9,
+.glyphsSpriteSearch,
+.glyphsSpriteSearch__filled__24__grey_9,
+.glyphsSpriteSearch__outline__24__grey_9,
+.glyphsSpriteSettings__outline__24__grey_9,
+.glyphsSpriteShare__outline__24__grey_9,
+.glyphsSpriteTag_up__outline__24__blue_5,
+.glyphsSpriteTag_up__outline__24__grey_5,
+.glyphsSpriteUser__filled__24__grey_0,
+.glyphsSpriteUser__filled__24__grey_9,
+.glyphsSpriteUser__outline__24__grey_9,
+.glyphsSpriteUser_follow__outline__24__grey_9,
+.glyphsSpriteUsers__outline__24__grey_9,
+.glyphsSpriteVerified_small,
+.glyphsSpriteVideo_chat__outline__24__grey_9,
+.glyphsSpriteWhatsapp__outline__24__grey_9,
+.glyphsSpriteWhite_Close,
+.glyphsSpriteX__outline__24__grey_9 {
+    background-image: url(../img/sprite_glyphs_a7aeacb41348.png/a7aeacb41348.png)
+}
+
+.glyphsSpriteAdd__outline__24__blue_5,
+.glyphsSpriteAdd__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -163px -71px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteAdd__outline__24__grey_9 {
+    background-position: 0 -184px !important
+}
+
+.glyphsSpriteApp_Icon,
+.glyphsSpriteApp_Icon_Mobile {
+    background-repeat: no-repeat !important;
+    background-position: -74px 0 !important;
+    height: 60px !important;
+    width: 60px !important
+}
+
+.glyphsSpriteApp_Icon {
+    background-position: -178px -31px !important;
+    height: 30px !important;
+    width: 30px !important
+}
+
+.glyphsSpriteApp_instagram__outline__24__grey_9,
+.glyphsSpriteApp_messenger__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -84px -100px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteApp_messenger__outline__24__grey_9 {
+    background-position: -52px -132px !important
+}
+
+.glyphsSpriteApp_twitter__outline__24__grey_9,
+.glyphsSpriteCall__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -52px -184px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteCall__outline__24__grey_9 {
+    background-position: -130px -184px !important
+}
+
+.glyphsSpriteCamera__outline__24__grey_9,
+.glyphsSpriteChevron_left__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -182px -184px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteChevron_left__outline__24__grey_9 {
+    background-position: -189px -71px !important
+}
+
+.glyphsSpriteChevron_right__outline__24__grey_5,
+.glyphsSpriteCircle__outline__24__grey_2 {
+    background-repeat: no-repeat !important;
+    background-position: -215px -71px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteCircle__outline__24__grey_2 {
+    background-position: -136px -105px !important
+}
+
+.glyphsSpriteCircle_add__outline__24__grey_5,
+.glyphsSpriteCircle_add__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -162px -105px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteCircle_add__outline__24__grey_9 {
+    background-position: -188px -105px !important
+}
+
+.glyphsSpriteCircle_check__filled__24__blue_5,
+.glyphsSpriteComment__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -214px -105px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteComment__outline__24__grey_9 {
+    background-position: -58px -74px !important
+}
+
+.glyphsSpriteComment_like,
+.glyphsSpriteComment_like_active {
+    background-repeat: no-repeat !important;
+    background-position: -186px -236px !important;
+    height: 11px !important;
+    width: 12px !important
+}
+
+.glyphsSpriteComment_like {
+    background-position: -172px -236px !important
+}
+
+.glyphsSpriteContact_import_sm {
+    background-repeat: no-repeat !important;
+    background-position: -210px -31px !important;
+    height: 28px !important;
+    width: 23px !important
+}
+
+.glyphsSpriteContact_import {
+    background-repeat: no-repeat !important;
+    background-position: -136px -71px !important;
+    height: 32px !important;
+    width: 25px !important
+}
+
+.glyphsSpriteDelete__outline__24__grey_0 {
+    background-repeat: no-repeat !important;
+    background-position: -110px -100px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteDirect__outline__24__grey_0,
+.glyphsSpriteDirect__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: 0 -132px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteDirect__outline__24__grey_9 {
+    background-position: -26px -132px !important
+}
+
+.glyphsSpriteDirect_glyph_heart {
+    background-repeat: no-repeat !important;
+    background-position: -136px -31px !important;
+    height: 38px !important;
+    width: 40px !important
+}
+
+.glyphsSpriteFacebook__filled__24__fb_connect_blue,
+.glyphsSpriteFacebook__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -78px -132px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteFacebook__outline__24__grey_9 {
+    background-position: -104px -132px !important
+}
+
+.glyphsSpriteFB_Logo,
+.glyphsSpriteGlyph_heart_media_outline {
+    background-repeat: no-repeat !important;
+    background-position: -140px -236px !important;
+    height: 16px !important;
+    width: 16px !important
+}
+
+.glyphsSpriteGlyph_heart_media_outline {
+    background-position: -120px -236px !important;
+    width: 18px !important
+}
+
+.glyphsSpriteGlyph_heart_media,
+.glyphsSpriteGrey_Close {
+    background-repeat: no-repeat !important;
+    background-position: -100px -236px !important;
+    height: 16px !important;
+    width: 18px !important
+}
+
+.glyphsSpriteGrey_Close {
+    background-position: -86px -62px !important;
+    height: 9px !important;
+    width: 9px !important
+}
+
+.glyphsSpriteHashtag__outline__24__grey_9,
+.glyphsSpriteHeart__filled__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: 0 -158px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteHeart__filled__24__grey_9 {
+    background-position: -26px -158px !important
+}
+
+.glyphsSpriteHeart__filled__24__red_5,
+.glyphsSpriteHeart__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -52px -158px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteHeart__outline__24__grey_9 {
+    background-position: -78px -158px !important
+}
+
+.glyphsSpriteHome__filled__24__grey_9,
+.glyphsSpriteHome__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -104px -158px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteHome__outline__24__grey_9 {
+    background-position: -130px -158px !important
+}
+
+.glyphsSpriteIgtv__outline__24__blue_5,
+.glyphsSpriteIgtv__outline__24__grey_5 {
+    background-repeat: no-repeat !important;
+    background-position: -156px -158px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteIgtv__outline__24__grey_5 {
+    background-position: -182px -158px !important
+}
+
+.glyphsSpriteInfo__outline__24__grey_9,
+.glyphsSpriteInput_clear {
+    background-repeat: no-repeat !important;
+    background-position: -208px -158px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteInput_clear {
+    background-position: -78px -236px !important;
+    height: 20px !important;
+    width: 20px !important
+}
+
+.glyphsSpriteLink__outline__24__grey_9,
+.glyphsSpriteLite_app_icon {
+    background-repeat: no-repeat !important;
+    background-position: -26px -184px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteLite_app_icon {
+    background-position: 0 0 !important;
+    height: 72px !important;
+    width: 72px !important
+}
+
+.glyphsSpriteLocation__outline__24__grey_9,
+.glyphsSpriteLock__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -78px -184px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteLock__outline__24__grey_9 {
+    background-position: -104px -184px !important
+}
+
+.glyphsSpriteLogged_Out_QP_Glyph {
+    background-repeat: no-repeat !important;
+    background-position: 0 -74px !important;
+    height: 56px !important;
+    width: 56px !important
+}
+
+.glyphsSpriteMail__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -156px -184px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteMobile_nav_type_logo {
+    background-repeat: no-repeat !important;
+    background-position: -136px 0 !important;
+    height: 29px !important;
+    width: 103px !important
+}
+
+.glyphsSpriteMore_horizontal__filled__24__grey_0,
+.glyphsSpriteMore_horizontal__outline__24__grey_5 {
+    background-repeat: no-repeat !important;
+    background-position: -208px -184px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteMore_horizontal__outline__24__grey_5 {
+    background-position: 0 -210px !important
+}
+
+.glyphsSpriteMore_horizontal__outline__24__grey_9,
+.glyphsSpriteNew_post__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -26px -210px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteNew_post__outline__24__grey_9 {
+    background-position: -52px -210px !important
+}
+
+.glyphsSpritePaging_chevron,
+.glyphsSpritePhoto__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -78px -210px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpritePhoto__outline__24__grey_9 {
+    background-position: -104px -210px !important
+}
+
+.glyphsSpritePhoto_grid__outline__24__blue_5,
+.glyphsSpritePhoto_grid__outline__24__grey_5 {
+    background-repeat: no-repeat !important;
+    background-position: -130px -210px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpritePhoto_grid__outline__24__grey_5 {
+    background-position: -156px -210px !important
+}
+
+.glyphsSpritePhoto_list__outline__24__blue_5,
+.glyphsSpritePhoto_list__outline__24__grey_5 {
+    background-repeat: no-repeat !important;
+    background-position: -182px -210px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpritePhoto_list__outline__24__grey_5 {
+    background-position: -208px -210px !important
+}
+
+.glyphsSpriteSafari__outline__24__grey_9,
+.glyphsSpriteSave__filled__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -241px 0 !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteSave__filled__24__grey_9 {
+    background-position: -241px -26px !important
+}
+
+.glyphsSpriteSave__outline__24__blue_5,
+.glyphsSpriteSave__outline__24__grey_5 {
+    background-repeat: no-repeat !important;
+    background-position: -241px -52px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteSave__outline__24__grey_5 {
+    background-position: -241px -78px !important
+}
+
+.glyphsSpriteSave__outline__24__grey_9,
+.glyphsSpriteSearch__filled__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -241px -104px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteSearch__filled__24__grey_9 {
+    background-position: -241px -130px !important
+}
+
+.glyphsSpriteSearch,
+.glyphsSpriteSearch__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -241px -156px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteSearch {
+    background-position: -74px -62px !important;
+    height: 10px !important;
+    width: 10px !important
+}
+
+.glyphsSpriteSettings__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -241px -208px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteShare__outline__24__grey_9,
+.glyphsSpriteTag_up__outline__24__blue_5 {
+    background-repeat: no-repeat !important;
+    background-position: 0 -236px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteTag_up__outline__24__blue_5 {
+    background-position: -26px -236px !important
+}
+
+.glyphsSpriteTag_up__outline__24__grey_5,
+.glyphsSpriteUser__filled__24__grey_0 {
+    background-repeat: no-repeat !important;
+    background-position: -52px -236px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteUser__filled__24__grey_0 {
+    background-position: -241px -182px !important
+}
+
+.glyphsSpriteUser__filled__24__grey_9,
+.glyphsSpriteUser__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -208px -132px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteUser__outline__24__grey_9 {
+    background-position: -182px -132px !important
+}
+
+.glyphsSpriteUser_follow__outline__24__grey_9,
+.glyphsSpriteUsers__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -156px -132px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteUsers__outline__24__grey_9 {
+    background-position: -130px -132px !important
+}
+
+.glyphsSpriteVerified_small {
+    background-repeat: no-repeat !important;
+    background-position: -158px -236px !important;
+    height: 12px !important;
+    width: 12px !important
+}
+
+.glyphsSpriteVideo_chat__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -110px -74px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteWhatsapp__outline__24__grey_9,
+.glyphsSpriteWhite_Close {
+    background-repeat: no-repeat !important;
+    background-position: -84px -74px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.glyphsSpriteWhite_Close {
+    background-position: -97px -62px !important;
+    height: 9px !important;
+    width: 9px !important
+}
+
+.glyphsSpriteX__outline__24__grey_9 {
+    background-repeat: no-repeat !important;
+    background-position: -58px -100px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+@media (min-device-pixel-ratio:1.5),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+
+    .glyphsSpriteAdd__outline__24__blue_5,
+    .glyphsSpriteAdd__outline__24__grey_9,
+    .glyphsSpriteApp_Icon,
+    .glyphsSpriteApp_instagram__outline__24__grey_9,
+    .glyphsSpriteApp_messenger__outline__24__grey_9,
+    .glyphsSpriteApp_twitter__outline__24__grey_9,
+    .glyphsSpriteCall__outline__24__grey_9,
+    .glyphsSpriteCamera__outline__24__grey_9,
+    .glyphsSpriteChevron_left__outline__24__grey_9,
+    .glyphsSpriteChevron_right__outline__24__grey_5,
+    .glyphsSpriteCircle__outline__24__grey_2,
+    .glyphsSpriteCircle_add__outline__24__grey_5,
+    .glyphsSpriteCircle_add__outline__24__grey_9,
+    .glyphsSpriteCircle_check__filled__24__blue_5,
+    .glyphsSpriteComment__outline__24__grey_9,
+    .glyphsSpriteComment_like,
+    .glyphsSpriteComment_like_active,
+    .glyphsSpriteContact_import,
+    .glyphsSpriteContact_import_sm,
+    .glyphsSpriteDelete__outline__24__grey_0,
+    .glyphsSpriteDirect__outline__24__grey_0,
+    .glyphsSpriteDirect__outline__24__grey_9,
+    .glyphsSpriteDirect_glyph_heart,
+    .glyphsSpriteFB_Logo,
+    .glyphsSpriteFacebook__filled__24__fb_connect_blue,
+    .glyphsSpriteFacebook__outline__24__grey_9,
+    .glyphsSpriteGlyph_heart_media,
+    .glyphsSpriteGlyph_heart_media_outline,
+    .glyphsSpriteGrey_Close,
+    .glyphsSpriteHashtag__outline__24__grey_9,
+    .glyphsSpriteHeart__filled__24__grey_9,
+    .glyphsSpriteHeart__filled__24__red_5,
+    .glyphsSpriteHeart__outline__24__grey_9,
+    .glyphsSpriteHome__filled__24__grey_9,
+    .glyphsSpriteHome__outline__24__grey_9,
+    .glyphsSpriteIgtv__outline__24__blue_5,
+    .glyphsSpriteIgtv__outline__24__grey_5,
+    .glyphsSpriteInfo__outline__24__grey_9,
+    .glyphsSpriteInput_clear,
+    .glyphsSpriteLink__outline__24__grey_9,
+    .glyphsSpriteLite_app_icon,
+    .glyphsSpriteLocation__outline__24__grey_9,
+    .glyphsSpriteLock__outline__24__grey_9,
+    .glyphsSpriteLogged_Out_QP_Glyph,
+    .glyphsSpriteMail__outline__24__grey_9,
+    .glyphsSpriteMobile_nav_type_logo,
+    .glyphsSpriteMore_horizontal__filled__24__grey_0,
+    .glyphsSpriteMore_horizontal__outline__24__grey_5,
+    .glyphsSpriteMore_horizontal__outline__24__grey_9,
+    .glyphsSpriteNew_post__outline__24__grey_9,
+    .glyphsSpritePaging_chevron,
+    .glyphsSpritePhoto__outline__24__grey_9,
+    .glyphsSpritePhoto_grid__outline__24__blue_5,
+    .glyphsSpritePhoto_grid__outline__24__grey_5,
+    .glyphsSpritePhoto_list__outline__24__blue_5,
+    .glyphsSpritePhoto_list__outline__24__grey_5,
+    .glyphsSpriteSafari__outline__24__grey_9,
+    .glyphsSpriteSave__filled__24__grey_9,
+    .glyphsSpriteSave__outline__24__blue_5,
+    .glyphsSpriteSave__outline__24__grey_5,
+    .glyphsSpriteSave__outline__24__grey_9,
+    .glyphsSpriteSearch,
+    .glyphsSpriteSearch__filled__24__grey_9,
+    .glyphsSpriteSearch__outline__24__grey_9,
+    .glyphsSpriteSettings__outline__24__grey_9,
+    .glyphsSpriteShare__outline__24__grey_9,
+    .glyphsSpriteTag_up__outline__24__blue_5,
+    .glyphsSpriteTag_up__outline__24__grey_5,
+    .glyphsSpriteUser__filled__24__grey_0,
+    .glyphsSpriteUser__filled__24__grey_9,
+    .glyphsSpriteUser__outline__24__grey_9,
+    .glyphsSpriteUser_follow__outline__24__grey_9,
+    .glyphsSpriteUsers__outline__24__grey_9,
+    .glyphsSpriteVerified_small,
+    .glyphsSpriteVideo_chat__outline__24__grey_9,
+    .glyphsSpriteWhatsapp__outline__24__grey_9,
+    .glyphsSpriteWhite_Close,
+    .glyphsSpriteX__outline__24__grey_9 {
+        background-image: url(../img/sprite_glyphs_2x_cf710d56b237.png/cf710d56b237.png)
+    }
+
+    .glyphsSpriteAdd__outline__24__blue_5 {
+        background-size: 270px 227px !important;
+        background-position: -100px -128px !important
+    }
+
+    .glyphsSpriteAdd__outline__24__grey_9,
+    .glyphsSpriteApp_Icon {
+        background-size: 270px 227px !important;
+        background-position: 0 -178px !important
+    }
+
+    .glyphsSpriteApp_Icon {
+        background-position: -130px -39px !important
+    }
+
+    .glyphsSpriteApp_instagram__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -125px -128px !important
+    }
+
+    .glyphsSpriteApp_messenger__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -171px -75px !important
+    }
+
+    .glyphsSpriteApp_twitter__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -25px -178px !important
+    }
+
+    .glyphsSpriteCall__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -100px -178px !important
+    }
+
+    .glyphsSpriteCamera__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -150px -178px !important
+    }
+
+    .glyphsSpriteChevron_left__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -25px -103px !important
+    }
+
+    .glyphsSpriteChevron_right__outline__24__grey_5 {
+        background-size: 270px 227px !important;
+        background-position: -50px -103px !important
+    }
+
+    .glyphsSpriteCircle__outline__24__grey_2 {
+        background-size: 270px 227px !important;
+        background-position: -75px -103px !important
+    }
+
+    .glyphsSpriteCircle_add__outline__24__grey_5 {
+        background-size: 270px 227px !important;
+        background-position: -100px -103px !important
+    }
+
+    .glyphsSpriteCircle_add__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -125px -103px !important
+    }
+
+    .glyphsSpriteCircle_check__filled__24__blue_5 {
+        background-size: 270px 227px !important;
+        background-position: 0 -128px !important
+    }
+
+    .glyphsSpriteComment__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -25px -128px !important
+    }
+
+    .glyphsSpriteComment_like,
+    .glyphsSpriteComment_like_active {
+        background-size: 270px 227px !important;
+        background-position: -246px -197px !important
+    }
+
+    .glyphsSpriteComment_like {
+        background-position: -246px -185px !important
+    }
+
+    .glyphsSpriteContact_import_sm {
+        background-size: 270px 227px !important;
+        background-position: -104px -73px !important
+    }
+
+    .glyphsSpriteContact_import {
+        background-size: 270px 227px !important;
+        background-position: -130px -70px !important
+    }
+
+    .glyphsSpriteDelete__outline__24__grey_0 {
+        background-size: 270px 227px !important;
+        background-position: -171px 0 !important
+    }
+
+    .glyphsSpriteDirect__outline__24__grey_0 {
+        background-size: 270px 227px !important;
+        background-position: -171px -25px !important
+    }
+
+    .glyphsSpriteDirect__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -171px -50px !important
+    }
+
+    .glyphsSpriteDirect_glyph_heart {
+        background-size: 270px 227px !important;
+        background-position: -130px 0 !important
+    }
+
+    .glyphsSpriteFacebook__filled__24__fb_connect_blue {
+        background-size: 270px 227px !important;
+        background-position: -171px -100px !important
+    }
+
+    .glyphsSpriteFB_Logo,
+    .glyphsSpriteFacebook__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -171px -125px !important
+    }
+
+    .glyphsSpriteFB_Logo {
+        background-position: -246px -155px !important
+    }
+
+    .glyphsSpriteGlyph_heart_media_outline {
+        background-size: 270px 227px !important;
+        background-position: -246px -138px !important
+    }
+
+    .glyphsSpriteGlyph_heart_media,
+    .glyphsSpriteGrey_Close {
+        background-size: 270px 227px !important;
+        background-position: -246px -121px !important
+    }
+
+    .glyphsSpriteGrey_Close {
+        background-position: -259px -185px !important
+    }
+
+    .glyphsSpriteHashtag__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -100px -153px !important
+    }
+
+    .glyphsSpriteHeart__filled__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -125px -153px !important
+    }
+
+    .glyphsSpriteHeart__filled__24__red_5 {
+        background-size: 270px 227px !important;
+        background-position: -150px -153px !important
+    }
+
+    .glyphsSpriteHeart__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -196px 0 !important
+    }
+
+    .glyphsSpriteHome__filled__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -196px -25px !important
+    }
+
+    .glyphsSpriteHome__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -196px -50px !important
+    }
+
+    .glyphsSpriteIgtv__outline__24__blue_5 {
+        background-size: 270px 227px !important;
+        background-position: -196px -75px !important
+    }
+
+    .glyphsSpriteIgtv__outline__24__grey_5 {
+        background-size: 270px 227px !important;
+        background-position: -196px -100px !important
+    }
+
+    .glyphsSpriteInfo__outline__24__grey_9,
+    .glyphsSpriteInput_clear {
+        background-size: 270px 227px !important;
+        background-position: -196px -125px !important
+    }
+
+    .glyphsSpriteInput_clear {
+        background-position: -246px -100px !important
+    }
+
+    .glyphsSpriteLink__outline__24__grey_9,
+    .glyphsSpriteLite_app_icon {
+        background-size: 270px 227px !important;
+        background-position: 0 -103px !important
+    }
+
+    .glyphsSpriteLite_app_icon {
+        background-position: 0 0 !important
+    }
+
+    .glyphsSpriteLocation__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -50px -178px !important
+    }
+
+    .glyphsSpriteLock__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -75px -178px !important
+    }
+
+    .glyphsSpriteLogged_Out_QP_Glyph {
+        background-size: 270px 227px !important;
+        background-position: -73px 0 !important
+    }
+
+    .glyphsSpriteMail__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -125px -178px !important
+    }
+
+    .glyphsSpriteMobile_nav_type_logo {
+        background-size: 270px 227px !important;
+        background-position: 0 -73px !important
+    }
+
+    .glyphsSpriteMore_horizontal__filled__24__grey_0 {
+        background-size: 270px 227px !important;
+        background-position: -175px -178px !important
+    }
+
+    .glyphsSpriteMore_horizontal__outline__24__grey_5 {
+        background-size: 270px 227px !important;
+        background-position: -221px 0 !important
+    }
+
+    .glyphsSpriteMore_horizontal__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -221px -25px !important
+    }
+
+    .glyphsSpriteNew_post__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -221px -50px !important
+    }
+
+    .glyphsSpritePaging_chevron {
+        background-size: 270px 227px !important;
+        background-position: -221px -75px !important
+    }
+
+    .glyphsSpritePhoto__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -221px -100px !important
+    }
+
+    .glyphsSpritePhoto_grid__outline__24__blue_5 {
+        background-size: 270px 227px !important;
+        background-position: -221px -125px !important
+    }
+
+    .glyphsSpritePhoto_grid__outline__24__grey_5 {
+        background-size: 270px 227px !important;
+        background-position: -221px -150px !important
+    }
+
+    .glyphsSpritePhoto_list__outline__24__blue_5 {
+        background-size: 270px 227px !important;
+        background-position: -221px -175px !important
+    }
+
+    .glyphsSpritePhoto_list__outline__24__grey_5 {
+        background-size: 270px 227px !important;
+        background-position: 0 -203px !important
+    }
+
+    .glyphsSpriteSafari__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -25px -203px !important
+    }
+
+    .glyphsSpriteSave__filled__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -50px -203px !important
+    }
+
+    .glyphsSpriteSave__outline__24__blue_5 {
+        background-size: 270px 227px !important;
+        background-position: -75px -203px !important
+    }
+
+    .glyphsSpriteSave__outline__24__grey_5 {
+        background-size: 270px 227px !important;
+        background-position: -100px -203px !important
+    }
+
+    .glyphsSpriteSave__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -125px -203px !important
+    }
+
+    .glyphsSpriteSearch__filled__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -150px -203px !important
+    }
+
+    .glyphsSpriteSearch,
+    .glyphsSpriteSearch__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -175px -203px !important
+    }
+
+    .glyphsSpriteSearch {
+        background-position: -259px -172px !important
+    }
+
+    .glyphsSpriteSettings__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -246px 0 !important
+    }
+
+    .glyphsSpriteShare__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -246px -25px !important
+    }
+
+    .glyphsSpriteTag_up__outline__24__blue_5 {
+        background-size: 270px 227px !important;
+        background-position: -246px -50px !important
+    }
+
+    .glyphsSpriteTag_up__outline__24__grey_5 {
+        background-size: 270px 227px !important;
+        background-position: -200px -203px !important
+    }
+
+    .glyphsSpriteUser__filled__24__grey_0 {
+        background-size: 270px 227px !important;
+        background-position: -196px -150px !important
+    }
+
+    .glyphsSpriteUser__filled__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -75px -153px !important
+    }
+
+    .glyphsSpriteUser__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -50px -153px !important
+    }
+
+    .glyphsSpriteUser_follow__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -25px -153px !important
+    }
+
+    .glyphsSpriteUsers__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: 0 -153px !important
+    }
+
+    .glyphsSpriteVerified_small {
+        background-size: 270px 227px !important;
+        background-position: -246px -172px !important
+    }
+
+    .glyphsSpriteVideo_chat__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -75px -128px !important
+    }
+
+    .glyphsSpriteWhatsapp__outline__24__grey_9,
+    .glyphsSpriteWhite_Close {
+        background-size: 270px 227px !important;
+        background-position: -50px -128px !important
+    }
+
+    .glyphsSpriteWhite_Close {
+        background-position: -259px -197px !important
+    }
+
+    .glyphsSpriteX__outline__24__grey_9 {
+        background-size: 270px 227px !important;
+        background-position: -246px -75px !important
+    }
+
+     !important
+}
+
+.debuginfoSpriteBugnub,
+.debuginfoSpriteDevtools {
+    background-image: url(../img/sprite_debuginfo_04482f505972.png/04482f505972.png) !important;
+    background-repeat: no-repeat !important;
+    background-position: 0 0 !important;
+    height: 22px !important;
+    width: 22px !important
+}
+
+.debuginfoSpriteDevtools {
+    background-position: -24px 0 !important
+}
+
+@media (min-device-pixel-ratio:1.5),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+
+    .debuginfoSpriteBugnub,
+    .debuginfoSpriteDevtools {
+        background-image: url(../img/sprite_debuginfo_2x_24b85a13663c.png/24b85a13663c.png) !important;
+        background-size: 45px 22px !important;
+        background-position: 0 0 !important
+    }
+
+    .debuginfoSpriteDevtools {
+        background-position: -23px 0 !important
+    }
+
+     !important
+}
+
+.BARfH,
+.PIoXz {
+    font-size: 10px !important;
+    line-height: 12px !important;
+    margin: -2px 0 -3px !important
+}
+
+.PIoXz {
+    font-size: 12px !important;
+    line-height: 14px !important
+}
+
+.xLCgt {
+    font-size: 14px !important;
+    line-height: 18px !important;
+    margin: -3px 0 -4px !important
+}
+
+.LjQVu,
+.vy6Bb {
+    font-size: 16px !important;
+    line-height: 24px !important;
+    margin: -6px 0 !important
+}
+
+.LjQVu {
+    font-size: 18px !important;
+    margin: -4px 0 -6px !important
+}
+
+.x-6xq {
+    font-size: 22px !important;
+    line-height: 26px !important;
+    margin: -4px 0 -5px !important
+}
+
+.fKFbl {
+    font-size: 28px !important;
+    line-height: 32px !important;
+    margin: -5px 0 -6px !important
+}
+
+.T0kll {
+    margin: 0 !important
+}
+
+.yUEEX {
+    font-weight: 300 !important
+}
+
+.MMzan {
+    font-weight: 400 !important
+}
+
+.qyrsm {
+    font-weight: 600 !important
+}
+
+.KV-D4 {
+    color: #262626 !important
+}
+
+._0PwGv {
+    color: #999 !important
+}
+
+.tx0Md {
+    color: #003569 !important
+}
+
+.fDdiY {
+    color: #ed4956 !important
+}
+
+.OgsCw {
+    color: #70c050 !important
+}
+
+.gtFbE {
+    color: #3897f0 !important
+}
+
+.mDXrS {
+    color: #c7c7c7 !important
+}
+
+.h_zdq {
+    color: #fafafa !important
+}
+
+.uL8Hv {
+    display: block !important
+}
+
+._7UhW9 ._7UhW9,
+.se6yk {
+    display: inline !important;
+    margin: 0 !important
+}
+
+.fDxYl {
+    display: block !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important
+}
+
+.zuV7c {
+    white-space: pre !important
+}
+
+.p1tLr {
+    white-space: pre-wrap !important
+}
+
+.l4b0S {
+    text-align: center !important
+}
+
+.M8ipN {
+    text-align: left !important
+}
+
+.lV_gY {
+    text-align: right !important
+}
+
+.hjZTB {
+    overflow-wrap: break-word !important;
+    white-space: normal !important
+}
+
+._7VskX {
+    border-radius: 50% !important
+}
+
+.Xaj-h {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    background: 0 0 !important;
+    border: 0 !important;
+    cursor: pointer !important;
+    padding: 0 !important
+}
+
+.tlZCJ {
+    left: -9999px !important;
+    position: absolute !important
+}
+
+.mwD2G {
+    border-radius: 3px !important;
+    border: 1px solid #dbdbdb !important;
+    display: inline-block !important;
+    height: 16px !important;
+    position: relative !important;
+    width: 16px !important;
+    margin: 0 8px 0 3px !important
+}
+
+.tlZCJ:active~.mwD2G {
+    -webkit-box-shadow: inset 0 0 1px 1px #dbdbdb !important;
+    box-shadow: inset 0 0 1px 1px #dbdbdb !important
+}
+
+.tlZCJ:focus~.mwD2G {
+    border-color: #3897f0 !important
+}
+
+.tlZCJ:checked~.mwD2G::before {
+    content: " " !important;
+    border-bottom: 2px solid #262626 !important;
+    border-left: 2px solid #262626 !important;
+    display: block !important;
+    height: 3px !important;
+    left: 2px !important;
+    position: absolute !important;
+    top: 3px !important;
+    -webkit-transform: rotateZ(-45deg) !important;
+    transform: rotateZ(-45deg) !important;
+    width: 8px !important
+}
+
+.U17kh {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    color: #999 !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 14px !important
+}
+
+.yVvXQ {
+    color: #262626 !important;
+    font-weight: 600 !important
+}
+
+._0T_XJ::after,
+._0T_XJ::before {
+    content: '' !important;
+    height: 100% !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    width: 16px !important
+}
+
+._0T_XJ::before {
+    left: 0 !important;
+    background-image: -webkit-gradient(linear, right top, left top, from(rgba(250, 250, 250, 0)), to(#fafafa)) !important;
+    background-image: -webkit-linear-gradient(right, rgba(250, 250, 250, 0), #fafafa 100%) !important;
+    background-image: linear-gradient(to left, rgba(250, 250, 250, 0), #fafafa 100%) !important;
+    z-index: 10 !important
+}
+
+._0T_XJ::after {
+    background-image: -webkit-gradient(linear, left top, right top, from(rgba(250, 250, 250, 0)), to(#fafafa)) !important;
+    background-image: -webkit-linear-gradient(left, rgba(250, 250, 250, 0), #fafafa 100%) !important;
+    background-image: linear-gradient(to right, rgba(250, 250, 250, 0), #fafafa 100%) !important;
+    right: 0 !important;
+    z-index: 1 !important
+}
+
+.UJBD- {
+    margin: 12px 0 !important;
+    overflow: visible !important
+}
+
+.UJBD-:first-of-type {
+    margin-left: calc(50vw - 134px)
+}
+
+.UJBD-:last-of-type {
+    margin-right: calc(50vw - 134px)
+}
+
+._-9ffn {
+    height: 351px !important
+}
+
+.Mp8by {
+    border: 0 !important;
+    border-radius: 22px !important;
+    -webkit-box-shadow: 0 2px 24px rgba(0, 0, 0, .1) !important;
+    box-shadow: 0 2px 24px rgba(0, 0, 0, .1) !important;
+    height: 344px !important
+}
+
+.DVgrl {
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important
+}
+
+.Szr5J {
+    display: block !important;
+    overflow: hidden !important;
+    text-indent: 110% !important;
+    white-space: nowrap !important
+}
+
+.kIKUG:active {
+    opacity: 1 !important
+}
+
+.hUQXy,
+.hUQXy:visited {
+    color: #3897f0 !important
+}
+
+._2dbep {
+    background-color: #fafafa !important;
+    border-radius: 50% !important;
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    display: block !important;
+    -webkit-box-flex: 0 !important;
+    -webkit-flex: 0 0 auto !important;
+    -ms-flex: 0 0 auto !important;
+    flex: 0 0 auto !important;
+    overflow: hidden !important;
+    position: relative !important
+}
+
+._2dbep::after {
+    border: 1px solid rgba(0, 0, 0, .0975) !important;
+    border-radius: 50% !important;
+    bottom: 0 !important;
+    content: '' !important;
+    left: 0 !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    right: 0 !important;
+    top: 0 !important
+}
+
+._2dbep:focus {
+    outline: 0 !important
+}
+
+.qNELH {
+    cursor: pointer !important
+}
+
+._6q-tv {
+    height: 100% !important;
+    width: 100% !important
+}
+
+.FPmhX {
+    font-weight: 600 !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    padding-left: 5px !important;
+    margin-left: -5px !important
+}
+
+.dCJp8 {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    background: 0 0 !important;
+    border: 0 !important;
+    cursor: pointer !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-flex: 0 !important;
+    -webkit-flex-grow: 0 !important;
+    -ms-flex-positive: 0 !important;
+    flex-grow: 0 !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    padding: 0 !important
+}
+
+.afkep {
+    min-height: 40px !important;
+    min-width: 40px !important
+}
+
+._4RAzv,
+._4RAzv:visited {
+    color: #262626 !important
+}
+
+.coreSpriteActivityHeart,
+.coreSpriteAddText,
+.coreSpriteAppIcon,
+.coreSpriteAppStoreButton,
+.coreSpriteApproveLarge,
+.coreSpriteBoomerang,
+.coreSpriteCall,
+.coreSpriteCheck,
+.coreSpriteChevronDark,
+.coreSpriteChevronDownGrey,
+.coreSpriteChevronRight,
+.coreSpriteCi,
+.coreSpriteClose,
+.coreSpriteCloseLight,
+.coreSpriteDesktopNavDirect,
+.coreSpriteDesktopPhotoGrid,
+.coreSpriteDesktopPhotoGridActive,
+.coreSpriteDesktopProfileIGTV,
+.coreSpriteDesktopProfileIGTVActive,
+.coreSpriteDesktopProfileSave,
+.coreSpriteDesktopProfileSaveActive,
+.coreSpriteDesktopProfileTagged,
+.coreSpriteDesktopProfileTaggedActive,
+.coreSpriteDirectHeart,
+.coreSpriteDismissLarge,
+.coreSpriteDismissSmall,
+.coreSpriteDownload,
+.coreSpriteDropdownArrowBlue5,
+.coreSpriteDropdownArrowBlue6,
+.coreSpriteDropdownArrowGrey9,
+.coreSpriteDropdownArrowWhite,
+.coreSpriteFacebookIcon,
+.coreSpriteFacebookIconInverted,
+.coreSpriteGallery,
+.coreSpriteGlyphGradient,
+.coreSpriteGlyphWhite,
+.coreSpriteGooglePlayButton,
+.coreSpriteHashtag,
+.coreSpriteHeartSmall,
+.coreSpriteHyperlapse,
+.coreSpriteIgLiteHalfsheetInstagramLogo,
+.coreSpriteInfo,
+.coreSpriteInputAccepted,
+.coreSpriteInputError,
+.coreSpriteInputRefresh,
+.coreSpriteKeyhole,
+.coreSpriteLeftChevron,
+.coreSpriteLeftPaginationArrow,
+.coreSpriteLikeAnimationHeart,
+.coreSpriteLocation,
+.coreSpriteLocationActive,
+.coreSpriteLock,
+.coreSpriteLockLarge,
+.coreSpriteLockSmall,
+.coreSpriteLoggedOutGenericUpsell,
+.coreSpriteLoggedOutWordmark,
+.coreSpriteMobileNavDirect,
+.coreSpriteMobileNavTypeLogo,
+.coreSpriteNavBack,
+.coreSpriteNotificationLeftChevron,
+.coreSpriteNotificationRightChevron,
+.coreSpriteOptionsEllipsis,
+.coreSpriteOptionsEllipsisLight,
+.coreSpritePagingChevron,
+.coreSpritePlayIconSmall,
+.coreSpritePrivateLock,
+.coreSpriteProfileCamera,
+.coreSpriteReload,
+.coreSpriteRightChevron,
+.coreSpriteRightPaginationArrow,
+.coreSpriteSaveNull,
+.coreSpriteSaveStory,
+.coreSpriteSearchClear,
+.coreSpriteSearchIcon,
+.coreSpriteSensitivityIcon,
+.coreSpriteSensitivityIconSmall,
+.coreSpriteSpeechBubbleSmall,
+.coreSpriteSpinsta,
+.coreSpriteSpinstaNux,
+.coreSpriteSpinstaStory,
+.coreSpriteStar,
+.coreSpriteStoryCreation,
+.coreSpriteStoryCreationAlt,
+.coreSpriteStoryRing,
+.coreSpriteStoryViewCount,
+.coreSpriteTaggedNull,
+.coreSpriteUnreadComments,
+.coreSpriteUnreadLikes,
+.coreSpriteUnreadRelationships,
+.coreSpriteUnreadUsertags,
+.coreSpriteVerifiedBadge,
+.coreSpriteVerifiedBadgeSmall,
+.coreSpriteVideoNux,
+.coreSpriteViewCount,
+.coreSpriteWindowsStoreButton {
+    background-image: url(../img/sprite_core_f01fcb405c10.png/f01fcb405c10.png)
+}
+
+.coreSpriteActivityHeart {
+    background-repeat: no-repeat !important;
+    background-position: -394px -64px !important;
+    height: 62px !important;
+    width: 62px !important
+}
+
+.coreSpriteAddText,
+.coreSpriteAppIcon {
+    background-repeat: no-repeat !important;
+    background-position: 0 -399px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.coreSpriteAppIcon {
+    background-position: 0 -357px !important;
+    height: 40px !important;
+    width: 40px !important
+}
+
+.coreSpriteAppStoreButton,
+.coreSpriteApproveLarge {
+    background-repeat: no-repeat !important;
+    background-position: 0 0 !important;
+    height: 148px !important;
+    width: 148px !important
+}
+
+.coreSpriteAppStoreButton {
+    background-position: 0 -248px !important;
+    height: 41px !important;
+    width: 128px !important
+}
+
+.coreSpriteBoomerang,
+.coreSpriteCall {
+    background-repeat: no-repeat !important;
+    background-position: -308px -399px !important;
+    height: 17px !important;
+    width: 17px !important
+}
+
+.coreSpriteCall {
+    background-position: -275px -174px !important;
+    height: 22px !important;
+    width: 22px !important
+}
+
+.coreSpriteCheck,
+.coreSpriteChevronDark {
+    background-repeat: no-repeat !important;
+    background-position: -132px -291px !important;
+    height: 62px !important;
+    width: 62px !important
+}
+
+.coreSpriteChevronDark {
+    background-position: -449px -344px !important;
+    height: 10px !important;
+    width: 6px !important
+}
+
+.coreSpriteChevronDownGrey,
+.coreSpriteChevronRight {
+    background-repeat: no-repeat !important;
+    background-position: -378px -175px !important;
+    height: 12px !important;
+    width: 12px !important
+}
+
+.coreSpriteChevronRight {
+    background-position: -449px -357px !important;
+    height: 11px !important;
+    width: 6px !important
+}
+
+.coreSpriteCi,
+.coreSpriteClose {
+    background-repeat: no-repeat !important;
+    background-position: -272px -203px !important;
+    height: 32px !important;
+    width: 25px !important
+}
+
+.coreSpriteClose {
+    background-position: -436px -302px !important;
+    height: 20px !important;
+    width: 20px !important
+}
+
+.coreSpriteCloseLight,
+.coreSpriteDesktopNavDirect {
+    background-repeat: no-repeat !important;
+    background-position: -104px -399px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.coreSpriteDesktopNavDirect {
+    background-position: -26px -399px !important
+}
+
+.coreSpriteDesktopPhotoGrid,
+.coreSpriteDesktopPhotoGridActive {
+    background-repeat: no-repeat !important;
+    background-position: -36px -425px !important;
+    height: 12px !important;
+    width: 12px !important
+}
+
+.coreSpriteDesktopPhotoGridActive {
+    background-position: -50px -425px !important
+}
+
+.coreSpriteDesktopProfileIGTV,
+.coreSpriteDesktopProfileIGTVActive {
+    background-repeat: no-repeat !important;
+    background-position: -64px -425px !important;
+    height: 12px !important;
+    width: 12px !important
+}
+
+.coreSpriteDesktopProfileIGTVActive {
+    background-position: -378px -217px !important
+}
+
+.coreSpriteDesktopProfileSave,
+.coreSpriteDesktopProfileSaveActive {
+    background-repeat: no-repeat !important;
+    background-position: -78px -425px !important;
+    height: 12px !important;
+    width: 10px !important
+}
+
+.coreSpriteDesktopProfileSaveActive {
+    background-position: -90px -425px !important
+}
+
+.coreSpriteDesktopProfileTagged,
+.coreSpriteDesktopProfileTaggedActive {
+    background-repeat: no-repeat !important;
+    background-position: -436px -399px !important;
+    height: 12px !important;
+    width: 12px !important
+}
+
+.coreSpriteDesktopProfileTaggedActive {
+    background-position: -378px -189px !important
+}
+
+.coreSpriteDirectHeart,
+.coreSpriteDismissLarge {
+    background-repeat: no-repeat !important;
+    background-position: -345px -357px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.coreSpriteDismissLarge {
+    background-position: -252px -279px !important;
+    height: 10px !important;
+    width: 10px !important
+}
+
+.coreSpriteDismissSmall,
+.coreSpriteDownload {
+    background-repeat: no-repeat !important;
+    background-position: -378px -150px !important;
+    height: 8px !important;
+    width: 8px !important
+}
+
+.coreSpriteDownload {
+    background-position: -394px -128px !important;
+    height: 62px !important;
+    width: 62px !important
+}
+
+.coreSpriteDropdownArrowBlue5 {
+    background-repeat: no-repeat !important;
+    background-position: -378px -231px !important;
+    height: 6px !important;
+    width: 9px !important
+}
+
+.coreSpriteDropdownArrowBlue6,
+.coreSpriteDropdownArrowGrey9 {
+    background-repeat: no-repeat !important;
+    background-position: -311px -239px !important;
+    height: 6px !important;
+    width: 9px !important
+}
+
+.coreSpriteDropdownArrowGrey9 {
+    background-position: -322px -239px !important;
+    width: 8px !important
+}
+
+.coreSpriteDropdownArrowWhite,
+.coreSpriteFacebookIcon {
+    background-repeat: no-repeat !important;
+    background-position: -300px -239px !important;
+    height: 6px !important;
+    width: 9px !important
+}
+
+.coreSpriteFacebookIcon {
+    background-position: -382px -399px !important;
+    height: 16px !important;
+    width: 16px !important
+}
+
+.coreSpriteFacebookIconInverted,
+.coreSpriteGallery {
+    background-repeat: no-repeat !important;
+    background-position: -400px -399px !important;
+    height: 16px !important;
+    width: 16px !important
+}
+
+.coreSpriteGallery {
+    background-position: -423px -357px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.coreSpriteGlyphGradient,
+.coreSpriteGlyphWhite {
+    background-repeat: no-repeat !important;
+    background-position: -42px -357px !important;
+    height: 40px !important;
+    width: 40px !important
+}
+
+.coreSpriteGlyphWhite {
+    background-position: -357px -248px !important;
+    height: 29px !important;
+    width: 29px !important
+}
+
+.coreSpriteGooglePlayButton,
+.coreSpriteHashtag {
+    background-repeat: no-repeat !important;
+    background-position: -98px -203px !important;
+    height: 41px !important;
+    width: 130px !important
+}
+
+.coreSpriteHashtag {
+    background-position: -378px -83px !important;
+    height: 17px !important;
+    width: 13px !important
+}
+
+.coreSpriteHeartSmall,
+.coreSpriteHyperlapse {
+    background-repeat: no-repeat !important;
+    background-position: -225px -399px !important;
+    height: 19px !important;
+    width: 19px !important
+}
+
+.coreSpriteHyperlapse {
+    background-position: -327px -399px !important;
+    height: 17px !important;
+    width: 17px !important
+}
+
+.coreSpriteIgLiteHalfsheetInstagramLogo,
+.coreSpriteInfo {
+    background-repeat: no-repeat !important;
+    background-position: -66px -291px !important;
+    height: 64px !important;
+    width: 64px !important
+}
+
+.coreSpriteInfo {
+    background-position: -122px -357px !important;
+    height: 34px !important;
+    width: 34px !important
+}
+
+.coreSpriteInputAccepted,
+.coreSpriteInputError,
+.coreSpriteInputRefresh {
+    background-repeat: no-repeat !important;
+    background-position: -275px -150px !important;
+    height: 22px !important;
+    width: 22px !important
+}
+
+.coreSpriteInputError,
+.coreSpriteInputRefresh {
+    background-position: -156px -399px !important
+}
+
+.coreSpriteInputRefresh {
+    background-position: -180px -399px !important;
+    width: 21px !important
+}
+
+.coreSpriteKeyhole,
+.coreSpriteLeftChevron {
+    background-repeat: no-repeat !important;
+    background-position: -324px -291px !important;
+    height: 62px !important;
+    width: 62px !important
+}
+
+.coreSpriteLeftChevron {
+    background-position: -256px -357px !important;
+    height: 30px !important;
+    width: 30px !important
+}
+
+.coreSpriteLeftPaginationArrow {
+    background-repeat: no-repeat !important;
+    background-position: -394px -302px !important;
+    height: 40px !important;
+    width: 40px !important
+}
+
+.coreSpriteLikeAnimationHeart,
+.coreSpriteLocation {
+    background-repeat: no-repeat !important;
+    background-position: -300px 0 !important;
+    height: 81px !important;
+    width: 92px !important
+}
+
+.coreSpriteLocation {
+    background-position: -18px -425px !important;
+    height: 19px !important;
+    width: 16px !important
+}
+
+.coreSpriteLocationActive,
+.coreSpriteLock {
+    background-repeat: no-repeat !important;
+    background-position: 0 -425px !important;
+    height: 20px !important;
+    width: 16px !important
+}
+
+.coreSpriteLock {
+    background-position: -300px -83px !important;
+    height: 76px !important;
+    width: 76px !important
+}
+
+.coreSpriteLockLarge,
+.coreSpriteLockSmall {
+    background-repeat: no-repeat !important;
+    background-position: -150px 0 !important;
+    height: 148px !important;
+    width: 148px !important
+}
+
+.coreSpriteLockSmall {
+    background-position: 0 -150px !important;
+    height: 96px !important;
+    width: 96px !important
+}
+
+.coreSpriteLoggedOutGenericUpsell {
+    background-repeat: no-repeat !important;
+    background-position: -394px -192px !important;
+    height: 58px !important;
+    width: 58px !important
+}
+
+.coreSpriteLoggedOutWordmark,
+.coreSpriteMobileNavDirect {
+    background-repeat: no-repeat !important;
+    background-position: -98px -150px !important;
+    height: 51px !important;
+    width: 175px !important
+}
+
+.coreSpriteMobileNavDirect {
+    background-position: -78px -399px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.coreSpriteMobileNavTypeLogo,
+.coreSpriteNavBack {
+    background-repeat: no-repeat !important;
+    background-position: -252px -248px !important;
+    height: 29px !important;
+    width: 103px !important
+}
+
+.coreSpriteNavBack {
+    background-position: -444px -252px !important;
+    height: 20px !important;
+    width: 12px !important
+}
+
+.coreSpriteNotificationLeftChevron {
+    background-repeat: no-repeat !important;
+    background-position: -444px -274px !important;
+    height: 21px !important;
+    width: 11px !important
+}
+
+.coreSpriteNotificationRightChevron,
+.coreSpriteOptionsEllipsis {
+    background-repeat: no-repeat !important;
+    background-position: -378px -133px !important;
+    height: 15px !important;
+    width: 12px !important
+}
+
+.coreSpriteOptionsEllipsis {
+    background-position: -346px -399px !important;
+    height: 16px !important;
+    width: 16px !important
+}
+
+.coreSpriteOptionsEllipsisLight,
+.coreSpritePagingChevron,
+.coreSpritePlayIconSmall {
+    background-repeat: no-repeat !important;
+    background-position: -397px -357px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.coreSpritePagingChevron,
+.coreSpritePlayIconSmall {
+    background-position: -371px -357px !important
+}
+
+.coreSpritePlayIconSmall {
+    background-position: -267px -399px !important;
+    height: 19px !important;
+    width: 19px !important
+}
+
+.coreSpritePrivateLock,
+.coreSpriteProfileCamera {
+    background-repeat: no-repeat !important;
+    background-position: -84px -357px !important;
+    height: 36px !important;
+    width: 36px !important
+}
+
+.coreSpriteProfileCamera {
+    background-position: -260px -291px !important;
+    height: 62px !important;
+    width: 62px !important
+}
+
+.coreSpriteReload,
+.coreSpriteRightChevron {
+    background-repeat: no-repeat !important;
+    background-position: -288px -357px !important;
+    height: 29px !important;
+    width: 29px !important
+}
+
+.coreSpriteRightChevron {
+    background-position: -224px -357px !important;
+    height: 30px !important;
+    width: 30px !important
+}
+
+.coreSpriteRightPaginationArrow,
+.coreSpriteSaveNull {
+    background-repeat: no-repeat !important;
+    background-position: -230px -203px !important;
+    height: 40px !important;
+    width: 40px !important
+}
+
+.coreSpriteSaveNull {
+    background-position: -196px -291px !important;
+    height: 62px !important;
+    width: 62px !important
+}
+
+.coreSpriteSaveStory,
+.coreSpriteSearchClear {
+    background-repeat: no-repeat !important;
+    background-position: -130px -399px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.coreSpriteSearchClear {
+    background-position: -203px -399px !important;
+    height: 20px !important;
+    width: 20px !important
+}
+
+.coreSpriteSearchIcon,
+.coreSpriteSensitivityIcon {
+    background-repeat: no-repeat !important;
+    background-position: -437px -344px !important;
+    height: 10px !important;
+    width: 10px !important
+}
+
+.coreSpriteSensitivityIcon {
+    background-position: -394px -252px !important;
+    height: 48px !important;
+    width: 48px !important
+}
+
+.coreSpriteSensitivityIconSmall {
+    background-repeat: no-repeat !important;
+    background-position: -158px -357px !important;
+    height: 32px !important;
+    width: 32px !important
+}
+
+.coreSpriteSpeechBubbleSmall,
+.coreSpriteSpinsta {
+    background-repeat: no-repeat !important;
+    background-position: -246px -399px !important;
+    height: 19px !important;
+    width: 19px !important
+}
+
+.coreSpriteSpinsta {
+    background-position: -408px -344px !important;
+    height: 11px !important;
+    width: 12px !important
+}
+
+.coreSpriteSpinstaNux,
+.coreSpriteSpinstaStory {
+    background-repeat: no-repeat !important;
+    background-position: -192px -357px !important;
+    height: 30px !important;
+    width: 30px !important
+}
+
+.coreSpriteSpinstaStory {
+    background-position: -394px -344px !important;
+    height: 11px !important;
+    width: 12px !important
+}
+
+.coreSpriteStar,
+.coreSpriteStoryCreation {
+    background-repeat: no-repeat !important;
+    background-position: -319px -357px !important;
+    height: 24px !important;
+    width: 24px !important
+}
+
+.coreSpriteStoryCreation {
+    background-position: -52px -399px !important
+}
+
+.coreSpriteStoryCreationAlt {
+    background-repeat: no-repeat !important;
+    background-position: -288px -399px !important;
+    height: 18px !important;
+    width: 18px !important
+}
+
+.coreSpriteStoryRing,
+.coreSpriteStoryViewCount {
+    background-repeat: no-repeat !important;
+    background-position: 0 -291px !important;
+    height: 64px !important;
+    width: 64px !important
+}
+
+.coreSpriteStoryViewCount {
+    background-position: -422px -344px !important;
+    height: 10px !important;
+    width: 13px !important
+}
+
+.coreSpriteTaggedNull,
+.coreSpriteUnreadComments {
+    background-repeat: no-repeat !important;
+    background-position: -394px 0 !important;
+    height: 62px !important;
+    width: 62px !important
+}
+
+.coreSpriteUnreadComments {
+    background-position: -378px -102px !important;
+    height: 14px !important;
+    width: 14px !important
+}
+
+.coreSpriteUnreadLikes,
+.coreSpriteUnreadRelationships {
+    background-repeat: no-repeat !important;
+    background-position: -378px -161px !important;
+    height: 12px !important;
+    width: 14px !important
+}
+
+.coreSpriteUnreadRelationships {
+    background-position: -378px -118px !important;
+    height: 13px !important
+}
+
+.coreSpriteUnreadUsertags,
+.coreSpriteVerifiedBadge {
+    background-repeat: no-repeat !important;
+    background-position: -364px -399px !important;
+    height: 16px !important;
+    width: 16px !important
+}
+
+.coreSpriteVerifiedBadge {
+    background-position: -436px -324px !important;
+    height: 18px !important;
+    width: 18px !important
+}
+
+.coreSpriteVerifiedBadgeSmall {
+    background-repeat: no-repeat !important;
+    background-position: -378px -203px !important;
+    height: 12px !important;
+    width: 12px !important
+}
+
+.coreSpriteVideoNux,
+.coreSpriteViewCount {
+    background-repeat: no-repeat !important;
+    background-position: -300px -161px !important;
+    height: 76px !important;
+    width: 76px !important
+}
+
+.coreSpriteViewCount {
+    background-position: -418px -399px !important;
+    height: 16px !important;
+    width: 16px !important
+}
+
+.coreSpriteWindowsStoreButton {
+    background-repeat: no-repeat !important;
+    background-position: -130px -248px !important;
+    height: 41px !important;
+    width: 120px !important
+}
+
+@media (min-device-pixel-ratio:1.5),
+(-webkit-min-device-pixel-ratio:1.5),
+(min-resolution:144dpi) {
+
+    .coreSpriteActivityHeart,
+    .coreSpriteAddText,
+    .coreSpriteAppIcon,
+    .coreSpriteAppStoreButton,
+    .coreSpriteBoomerang,
+    .coreSpriteCall,
+    .coreSpriteCheck,
+    .coreSpriteChevronDark,
+    .coreSpriteChevronDownGrey,
+    .coreSpriteChevronRight,
+    .coreSpriteCi,
+    .coreSpriteClose,
+    .coreSpriteCloseLight,
+    .coreSpriteDesktopNavDirect,
+    .coreSpriteDesktopPhotoGrid,
+    .coreSpriteDesktopPhotoGridActive,
+    .coreSpriteDesktopProfileIGTV,
+    .coreSpriteDesktopProfileIGTVActive,
+    .coreSpriteDesktopProfileSave,
+    .coreSpriteDesktopProfileSaveActive,
+    .coreSpriteDesktopProfileTagged,
+    .coreSpriteDesktopProfileTaggedActive,
+    .coreSpriteDirectHeart,
+    .coreSpriteDismissLarge,
+    .coreSpriteDismissSmall,
+    .coreSpriteDownload,
+    .coreSpriteDropdownArrowBlue5,
+    .coreSpriteDropdownArrowBlue6,
+    .coreSpriteDropdownArrowGrey9,
+    .coreSpriteDropdownArrowWhite,
+    .coreSpriteFacebookIcon,
+    .coreSpriteFacebookIconInverted,
+    .coreSpriteGallery,
+    .coreSpriteGlyphGradient,
+    .coreSpriteGlyphWhite,
+    .coreSpriteGooglePlayButton,
+    .coreSpriteHashtag,
+    .coreSpriteHeartSmall,
+    .coreSpriteHyperlapse,
+    .coreSpriteIgLiteHalfsheetInstagramLogo,
+    .coreSpriteInfo,
+    .coreSpriteInputAccepted,
+    .coreSpriteInputError,
+    .coreSpriteInputRefresh,
+    .coreSpriteKeyhole,
+    .coreSpriteLeftChevron,
+    .coreSpriteLeftPaginationArrow,
+    .coreSpriteLikeAnimationHeart,
+    .coreSpriteLocation,
+    .coreSpriteLocationActive,
+    .coreSpriteLock,
+    .coreSpriteLockSmall,
+    .coreSpriteLoggedOutGenericUpsell,
+    .coreSpriteLoggedOutWordmark,
+    .coreSpriteMobileNavDirect,
+    .coreSpriteMobileNavTypeLogo,
+    .coreSpriteNavBack,
+    .coreSpriteNotificationLeftChevron,
+    .coreSpriteNotificationRightChevron,
+    .coreSpriteNullProfile,
+    .coreSpriteOptionsEllipsis,
+    .coreSpriteOptionsEllipsisLight,
+    .coreSpritePagingChevron,
+    .coreSpritePlayIconSmall,
+    .coreSpritePrivateLock,
+    .coreSpriteProfileCamera,
+    .coreSpriteReload,
+    .coreSpriteRightChevron,
+    .coreSpriteRightPaginationArrow,
+    .coreSpriteSaveNull,
+    .coreSpriteSaveStory,
+    .coreSpriteSearchClear,
+    .coreSpriteSearchIcon,
+    .coreSpriteSensitivityIcon,
+    .coreSpriteSensitivityIconSmall,
+    .coreSpriteSpeechBubbleSmall,
+    .coreSpriteSpinsta,
+    .coreSpriteSpinstaNux,
+    .coreSpriteSpinstaStory,
+    .coreSpriteStar,
+    .coreSpriteStoryCreation,
+    .coreSpriteStoryCreationAlt,
+    .coreSpriteStoryRing,
+    .coreSpriteStoryViewCount,
+    .coreSpriteTaggedNull,
+    .coreSpriteUnreadComments,
+    .coreSpriteUnreadLikes,
+    .coreSpriteUnreadRelationships,
+    .coreSpriteUnreadUsertags,
+    .coreSpriteVerifiedBadge,
+    .coreSpriteVerifiedBadgeSmall,
+    .coreSpriteVideoNux,
+    .coreSpriteViewCount,
+    .coreSpriteWindowsStoreButton,
+    .coreSpriteWordmark {
+        background-image: url(../img/sprite_core_2x_6ba81dcece9b.png/6ba81dcece9b.png)
+    }
+
+    .coreSpriteActivityHeart {
+        background-size: 410px 396px !important;
+        background-position: -63px -273px !important
+    }
+
+    .coreSpriteAddText,
+    .coreSpriteAppIcon {
+        background-size: 410px 396px !important;
+        background-position: -289px -336px !important
+    }
+
+    .coreSpriteAppIcon {
+        background-position: -338px -171px !important
+    }
+
+    .coreSpriteAppStoreButton,
+    .coreSpriteBoomerang {
+        background-size: 410px 396px !important;
+        background-position: 0 -231px !important
+    }
+
+    .coreSpriteBoomerang {
+        background-position: -379px -194px !important
+    }
+
+    .coreSpriteCall,
+    .coreSpriteCheck {
+        background-size: 410px 396px !important;
+        background-position: -315px -273px !important
+    }
+
+    .coreSpriteCheck {
+        background-position: -126px -273px !important
+    }
+
+    .coreSpriteChevronDark,
+    .coreSpriteChevronDownGrey {
+        background-size: 410px 396px !important;
+        background-position: -401px -26px !important
+    }
+
+    .coreSpriteChevronDownGrey {
+        background-position: -125px -366px !important
+    }
+
+    .coreSpriteChevronRight,
+    .coreSpriteCi {
+        background-size: 410px 396px !important;
+        background-position: -401px -37px !important
+    }
+
+    .coreSpriteCi {
+        background-position: -243px -97px !important
+    }
+
+    .coreSpriteClose,
+    .coreSpriteCloseLight {
+        background-size: 410px 396px !important;
+        background-position: -379px -253px !important
+    }
+
+    .coreSpriteCloseLight {
+        background-position: -164px -336px !important
+    }
+
+    .coreSpriteDesktopNavDirect {
+        background-size: 410px 396px !important;
+        background-position: -239px -336px !important
+    }
+
+    .coreSpriteDesktopPhotoGrid {
+        background-size: 410px 396px !important;
+        background-position: -177px -366px !important
+    }
+
+    .coreSpriteDesktopPhotoGridActive {
+        background-size: 410px 396px !important;
+        background-position: -189px -366px !important
+    }
+
+    .coreSpriteDesktopProfileIGTV {
+        background-size: 410px 396px !important;
+        background-position: -164px -366px !important
+    }
+
+    .coreSpriteDesktopProfileIGTVActive {
+        background-size: 410px 396px !important;
+        background-position: -151px -366px !important
+    }
+
+    .coreSpriteDesktopProfileSave {
+        background-size: 410px 396px !important;
+        background-position: -401px -13px !important
+    }
+
+    .coreSpriteDesktopProfileSaveActive {
+        background-size: 410px 396px !important;
+        background-position: -401px 0 !important
+    }
+
+    .coreSpriteDesktopProfileTagged {
+        background-size: 410px 396px !important;
+        background-position: -315px -319px !important
+    }
+
+    .coreSpriteDesktopProfileTaggedActive {
+        background-size: 410px 396px !important;
+        background-position: -255px -131px !important
+    }
+
+    .coreSpriteDirectHeart,
+    .coreSpriteDismissLarge {
+        background-size: 410px 396px !important;
+        background-position: -247px -174px !important
+    }
+
+    .coreSpriteDismissLarge {
+        background-position: -229px -366px !important
+    }
+
+    .coreSpriteDismissSmall,
+    .coreSpriteDownload {
+        background-size: 410px 396px !important;
+        background-position: -401px -49px !important
+    }
+
+    .coreSpriteDownload {
+        background-position: -252px -273px !important
+    }
+
+    .coreSpriteDropdownArrowBlue5 {
+        background-size: 410px 396px !important;
+        background-position: -401px -65px !important
+    }
+
+    .coreSpriteDropdownArrowBlue6 {
+        background-size: 410px 396px !important;
+        background-position: -401px -58px !important
+    }
+
+    .coreSpriteDropdownArrowGrey9 {
+        background-size: 410px 396px !important;
+        background-position: -401px -79px !important
+    }
+
+    .coreSpriteDropdownArrowWhite,
+    .coreSpriteFacebookIcon {
+        background-size: 410px 396px !important;
+        background-position: -401px -72px !important
+    }
+
+    .coreSpriteFacebookIcon {
+        background-position: -193px -131px !important
+    }
+
+    .coreSpriteFacebookIconInverted,
+    .coreSpriteGallery {
+        background-size: 410px 396px !important;
+        background-position: -273px -256px !important
+    }
+
+    .coreSpriteGallery {
+        background-position: -189px -336px !important
+    }
+
+    .coreSpriteGlyphGradient,
+    .coreSpriteGlyphWhite {
+        background-size: 410px 396px !important;
+        background-position: -338px -294px !important
+    }
+
+    .coreSpriteGlyphWhite {
+        background-position: -134px -336px !important
+    }
+
+    .coreSpriteGooglePlayButton,
+    .coreSpriteHashtag {
+        background-size: 410px 396px !important;
+        background-position: -97px -52px !important
+    }
+
+    .coreSpriteHashtag {
+        background-position: -111px -366px !important
+    }
+
+    .coreSpriteHeartSmall,
+    .coreSpriteHyperlapse {
+        background-size: 410px 396px !important;
+        background-position: -379px -274px !important
+    }
+
+    .coreSpriteHyperlapse {
+        background-position: -93px -366px !important
+    }
+
+    .coreSpriteIgLiteHalfsheetInstagramLogo {
+        background-size: 410px 396px !important;
+        background-position: -273px 0 !important
+    }
+
+    .coreSpriteInfo,
+    .coreSpriteInputAccepted {
+        background-size: 410px 396px !important;
+        background-position: -176px -97px !important
+    }
+
+    .coreSpriteInputAccepted {
+        background-position: -250px -231px !important
+    }
+
+    .coreSpriteInputError,
+    .coreSpriteInputRefresh {
+        background-size: 410px 396px !important;
+        background-position: -315px -296px !important
+    }
+
+    .coreSpriteInputRefresh {
+        background-position: -379px -171px !important
+    }
+
+    .coreSpriteKeyhole,
+    .coreSpriteLeftChevron {
+        background-size: 410px 396px !important;
+        background-position: -273px -193px !important
+    }
+
+    .coreSpriteLeftChevron {
+        background-position: 0 -366px !important
+    }
+
+    .coreSpriteLeftPaginationArrow {
+        background-size: 410px 396px !important;
+        background-position: -338px -212px !important
+    }
+
+    .coreSpriteLikeAnimationHeart {
+        background-size: 410px 396px !important;
+        background-position: 0 -149px !important
+    }
+
+    .coreSpriteLocation,
+    .coreSpriteLocationActive {
+        background-size: 410px 396px !important;
+        background-position: -381px -336px !important
+    }
+
+    .coreSpriteLocationActive {
+        background-position: -364px -336px !important
+    }
+
+    .coreSpriteLock,
+    .coreSpriteLockSmall {
+        background-size: 410px 396px !important;
+        background-position: -170px -149px !important
+    }
+
+    .coreSpriteLockSmall {
+        background-position: 0 0 !important
+    }
+
+    .coreSpriteLoggedOutGenericUpsell {
+        background-size: 410px 396px !important;
+        background-position: -338px -63px !important
+    }
+
+    .coreSpriteLoggedOutWordmark,
+    .coreSpriteMobileNavDirect {
+        background-size: 410px 396px !important;
+        background-position: 0 -97px !important
+    }
+
+    .coreSpriteMobileNavDirect {
+        background-position: -247px -199px !important
+    }
+
+    .coreSpriteMobileNavTypeLogo,
+    .coreSpriteNavBack {
+        background-size: 410px 396px !important;
+        background-position: 0 -336px !important
+    }
+
+    .coreSpriteNavBack {
+        background-position: -387px -122px !important
+    }
+
+    .coreSpriteNotificationLeftChevron {
+        background-size: 410px 396px !important;
+        background-position: -387px -143px !important
+    }
+
+    .coreSpriteNotificationRightChevron {
+        background-size: 410px 396px !important;
+        background-position: -324px -256px !important
+    }
+
+    .coreSpriteNullProfile,
+    .coreSpriteOptionsEllipsis {
+        background-size: 410px 396px !important;
+        background-position: -338px 0 !important
+    }
+
+    .coreSpriteOptionsEllipsis {
+        background-position: -176px -131px !important
+    }
+
+    .coreSpriteOptionsEllipsisLight {
+        background-size: 410px 396px !important;
+        background-position: -314px -336px !important
+    }
+
+    .coreSpritePagingChevron,
+    .coreSpritePlayIconSmall {
+        background-size: 410px 396px !important;
+        background-position: -264px -336px !important
+    }
+
+    .coreSpritePlayIconSmall {
+        background-position: -379px -294px !important
+    }
+
+    .coreSpritePrivateLock,
+    .coreSpriteProfileCamera {
+        background-size: 410px 396px !important;
+        background-position: -228px -52px !important
+    }
+
+    .coreSpriteProfileCamera {
+        background-position: -273px -130px !important
+    }
+
+    .coreSpriteReload,
+    .coreSpriteRightChevron {
+        background-size: 410px 396px !important;
+        background-position: -104px -336px !important
+    }
+
+    .coreSpriteRightChevron {
+        background-position: -62px -366px !important
+    }
+
+    .coreSpriteRightPaginationArrow,
+    .coreSpriteSaveNull {
+        background-size: 410px 396px !important;
+        background-position: -338px -253px !important
+    }
+
+    .coreSpriteSaveNull {
+        background-position: -189px -273px !important
+    }
+
+    .coreSpriteSaveStory,
+    .coreSpriteSearchClear {
+        background-size: 410px 396px !important;
+        background-position: -339px -336px !important
+    }
+
+    .coreSpriteSearchClear {
+        background-position: -379px -212px !important
+    }
+
+    .coreSpriteSearchIcon,
+    .coreSpriteSensitivityIcon {
+        background-size: 410px 396px !important;
+        background-position: -240px -366px !important
+    }
+
+    .coreSpriteSensitivityIcon {
+        background-position: -338px -122px !important
+    }
+
+    .coreSpriteSensitivityIconSmall {
+        background-size: 410px 396px !important;
+        background-position: -210px -97px !important
+    }
+
+    .coreSpriteSpeechBubbleSmall,
+    .coreSpriteSpinsta {
+        background-size: 410px 396px !important;
+        background-position: -379px -233px !important
+    }
+
+    .coreSpriteSpinsta {
+        background-position: -202px -366px !important
+    }
+
+    .coreSpriteSpinstaNux,
+    .coreSpriteSpinstaStory {
+        background-size: 410px 396px !important;
+        background-position: -31px -366px !important
+    }
+
+    .coreSpriteSpinstaStory {
+        background-position: -93px -384px !important
+    }
+
+    .coreSpriteStar,
+    .coreSpriteStoryCreation {
+        background-size: 410px 396px !important;
+        background-position: -214px -336px !important
+    }
+
+    .coreSpriteStoryCreation {
+        background-position: -247px -149px !important
+    }
+
+    .coreSpriteStoryCreationAlt,
+    .coreSpriteStoryRing {
+        background-size: 410px 396px !important;
+        background-position: -250px -254px !important
+    }
+
+    .coreSpriteStoryRing {
+        background-position: -273px -65px !important
+    }
+
+    .coreSpriteStoryViewCount,
+    .coreSpriteTaggedNull {
+        background-size: 410px 396px !important;
+        background-position: -215px -366px !important
+    }
+
+    .coreSpriteTaggedNull {
+        background-position: 0 -273px !important
+    }
+
+    .coreSpriteUnreadComments,
+    .coreSpriteUnreadLikes {
+        background-size: 410px 396px !important;
+        background-position: -210px -131px !important
+    }
+
+    .coreSpriteUnreadLikes {
+        background-position: -240px -131px !important
+    }
+
+    .coreSpriteUnreadRelationships {
+        background-size: 410px 396px !important;
+        background-position: -225px -131px !important
+    }
+
+    .coreSpriteUnreadUsertags,
+    .coreSpriteVerifiedBadge {
+        background-size: 410px 396px !important;
+        background-position: -290px -256px !important
+    }
+
+    .coreSpriteVerifiedBadge {
+        background-position: -379px -314px !important
+    }
+
+    .coreSpriteVerifiedBadgeSmall {
+        background-size: 410px 396px !important;
+        background-position: -138px -366px !important
+    }
+
+    .coreSpriteVideoNux,
+    .coreSpriteViewCount {
+        background-size: 410px 396px !important;
+        background-position: -93px -149px !important
+    }
+
+    .coreSpriteViewCount {
+        background-position: -307px -256px !important
+    }
+
+    .coreSpriteWindowsStoreButton,
+    .coreSpriteWordmark {
+        background-size: 410px 396px !important;
+        background-position: -129px -231px !important
+    }
+
+    .coreSpriteWordmark {
+        background-position: -97px 0 !important
+    }
+
+     !important
+}
+
+.YlNGR {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important
+}
+
+._-1_m6,
+.bsGjF {
+    display: block !important;
+    -webkit-box-flex: 0 !important;
+    -webkit-flex: 0 0 auto !important;
+    -ms-flex: 0 0 auto !important;
+    flex: 0 0 auto !important;
+    overflow: hidden !important
+}
+
+._-1_m6 {
+    -webkit-transition-duration: .05s, .3s !important;
+    transition-duration: .05s, .3s !important;
+    -webkit-transition-property: opacity, width !important;
+    transition-property: opacity, width !important;
+    -webkit-transition-timing-function: linear, ease !important;
+    transition-timing-function: linear, ease !important
+}
+
+.K2qji {
+    -webkit-overflow-scrolling: touch !important;
+    display: block !important;
+    overflow-x: auto !important
+}
+
+.zRsZI {
+    position: relative !important
+}
+
+.NgKI_ {
+    display: block !important;
+    line-height: 0 !important;
+    overflow: hidden !important
+}
+
+.MreMs {
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    outline: 0 !important;
+    overflow-x: visible !important;
+    -ms-touch-action: pan-y !important;
+    touch-action: pan-y !important;
+    -webkit-transition-property: -webkit-transform !important;
+    transition-property: transform !important;
+    transition-property: transform, -webkit-transform !important;
+    will-change: transform !important
+}
+
+.qqm6D {
+    display: inline-block !important;
+    line-height: 18px !important
+}
+
+.POSa_,
+._6CZji {
+    background: 0 0 !important;
+    border: 0 !important;
+    justify-self: center !important;
+    outline: 0 !important;
+    padding: 16px 8px !important;
+    position: absolute !important;
+    top: 50% !important;
+    -webkit-transform: translateY(-50%) !important;
+    transform: translateY(-50%) !important;
+    cursor: pointer !important
+}
+
+.POSa_ {
+    left: 0 !important
+}
+
+._6CZji {
+    right: 0 !important
+}
+
+.Kf8kP,
+.LA45P {
+    -webkit-box-flex: 0 !important;
+    -webkit-flex: 0 0 auto !important;
+    -ms-flex: 0 0 auto !important;
+    flex: 0 0 auto !important
+}
+
+.Kf8kP {
+    -webkit-transform: scaleX(-1) !important;
+    transform: scaleX(-1)
+}
+
+.dsJ8D,
+.piCib {
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important
+}
+
+.dsJ8D {
+    margin: 16px !important;
+    -webkit-box-align: stretch !important;
+    -webkit-align-items: stretch !important;
+    -ms-flex-align: stretch !important;
+    align-items: stretch !important
+}
+
+._08v79 {
+    margin: 16px 32px !important;
+    text-align: center !important
+}
+
+._08v79>:nth-child(n+2) {
+    padding-top: 16px !important
+}
+
+._08v79:first-child,
+.dsJ8D:first-child {
+    margin-top: 32px !important
+}
+
+.mt3GC {
+    margin-top: 16px !important
+}
+
+.mt3GC:only-child {
+    margin-top: 0 !important
+}
+
+.mt3GC:only-child .aOOlW:first-child {
+    border-top: none !important;
+    border-top-left-radius: 12px !important;
+    border-top-right-radius: 12px !important
+}
+
+.aOOlW {
+    background-color: transparent !important;
+    border-bottom: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+    border-top: 1px solid #efefef !important;
+    cursor: pointer !important;
+    line-height: 1.5 !important;
+    margin: 0 !important;
+    min-height: 48px !important;
+    padding: 4px 8px !important;
+    text-align: center !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    vertical-align: middle !important
+}
+
+.aOOlW:last-of-type {
+    border-bottom-left-radius: 12px !important;
+    border-bottom-right-radius: 12px !important
+}
+
+.aOOlW:not(.SRPMb):active {
+    -webkit-tap-highlight-color: transparent !important;
+    background-color: rgba(0, 0, 0, .1) !important;
+    opacity: 1 !important
+}
+
+.HoLwm {
+    color: inherit !important
+}
+
+.-Cab_,
+.bIiDR {
+    color: #3897f0 !important;
+    font-weight: 700 !important
+}
+
+.-Cab_ {
+    color: #ed4956 !important
+}
+
+.-Cab_._9gx9x,
+.HoLwm._9gx9x,
+._9gx9x,
+.bIiDR._9gx9x {
+    cursor: default !important;
+    color: #999 !important
+}
+
+.SRPMb {
+    cursor: default !important
+}
+
+@-webkit-keyframes IGCoreModalShow {
+    0% {
+        opacity: 0 !important;
+        -webkit-transform: scale(1.2) !important;
+        transform: scale(1.2)
+    }
+
+    to {
+        opacity: 1 !important;
+        -webkit-transform: scale(1) !important;
+        transform: scale(1)
+    }
+
+     !important
+}
+
+@keyframes IGCoreModalShow {
+    0% {
+        opacity: 0 !important;
+        -webkit-transform: scale(1.2) !important;
+        transform: scale(1.2)
+    }
+
+    to {
+        opacity: 1 !important;
+        -webkit-transform: scale(1) !important;
+        transform: scale(1)
+    }
+
+     !important
+}
+
+.pbNvD {
+    -webkit-animation: IGCoreModalShow .1s ease-out !important;
+    animation: IGCoreModalShow .1s ease-out !important;
+    background-color: #fff !important;
+    border-radius: 12px !important;
+    -webkit-flex-shrink: 1 !important;
+    -ms-flex-negative: 1 !important;
+    flex-shrink: 1 !important;
+    margin: 20px !important;
+    max-height: calc(100% - 40px)
+}
+
+.fPMEg {
+    width: 260px !important
+}
+
+.FrS-d {
+    width: 548px !important
+}
+
+@media (max-width:735px) {
+    .FrS-d {
+        -webkit-align-self: stretch !important;
+        -ms-flex-item-align: stretch !important;
+        align-self: stretch !important;
+        -webkit-animation: none !important;
+        animation: none !important;
+        border-radius: 0 !important;
+        -webkit-box-flex: 1 !important;
+        -webkit-flex-grow: 1 !important;
+        -ms-flex-positive: 1 !important;
+        flex-grow: 1 !important;
+        margin: 0 !important;
+        max-height: none !important;
+        width: 100% !important
+    }
+
+     !important
+}
+
+@media (min-width:736px) {
+    .fPMEg {
+        width: 400px !important
+    }
+
+     !important
+}
+
+.RnEpo {
+    -webkit-overflow-scrolling: touch !important;
+    -webkit-tap-highlight-color: transparent !important;
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    background-color: rgba(0, 0, 0, .5) !important;
+    bottom: 0 !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: column !important;
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+    left: 0 !important;
+    overflow-y: auto !important;
+    position: fixed !important;
+    right: 0 !important;
+    top: 0 !important;
+    z-index: 1 !important
+}
+
+.xpORG {
+    -webkit-box-pack: start !important;
+    -webkit-justify-content: flex-start !important;
+    -ms-flex-pack: start !important;
+    justify-content: flex-start !important
+}
+
+.AuINE {
+    -webkit-box-pack: end !important;
+    -webkit-justify-content: flex-end !important;
+    -ms-flex-pack: end !important;
+    justify-content: flex-end !important
+}
+
+.Yx5HN {
+    -webkit-justify-content: space-around !important;
+    -ms-flex-pack: distribute !important;
+    justify-content: space-around !important
+}
+
+.RnEpo._9Mt7n {
+    overflow: hidden !important
+}
+
+.yvwbg {
+    left: -9999px !important;
+    opacity: 0 !important;
+    position: fixed !important
+}
+
+.xlTJg {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    margin: 0 auto !important
+}
+
+.G3yoz {
+    border-radius: 50% !important;
+    overflow: hidden !important
+}
+
+.OYmo1 {
+    margin-left: 34% !important;
+    margin-top: 34% !important;
+    position: absolute !important
+}
+
+.W4P49 {
+    background-color: #efefef !important;
+    border: 0 !important;
+    height: 1px !important;
+    margin: 0 !important;
+    width: 100% !important
+}
+
+.eiUFA {
+    border-bottom: 1px solid #efefef !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    height: 43px !important
+}
+
+.WaOAr,
+.m82CD {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important
+}
+
+.WaOAr {
+    -webkit-flex: 0 0 48px !important;
+    -ms-flex: 0 0 48px !important;
+    flex: 0 0 48px !important;
+    -webkit-box-flex: 0 !important
+}
+
+.m82CD {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-flex: 1 !important;
+    -webkit-flex-grow: 1 !important;
+    -ms-flex-positive: 1 !important;
+    flex-grow: 1 !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    line-height: 24px !important;
+    text-align: center !important
+}
+
+.rZ_Tm {
+    padding: 12px !important
+}
+
+.BHY8D {
+    margin: 0 auto !important;
+    height: 4px !important;
+    background-color: #dbdbdb !important;
+    width: 48px !important;
+    border-radius: 2px !important
+}
+
+.xkuux {
+    -webkit-overflow-scrolling: touch !important;
+    background-color: #fff !important;
+    border-top-left-radius: 12px !important;
+    border-top-right-radius: 12px !important;
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, .2) !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2) !important;
+    height: 150% !important;
+    overflow: hidden !important;
+    width: 100% !important
+}
+
+.xkuux.dcGQ0 {
+    background-color: rgba(178, 178, 178, .8) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    backdrop-filter: blur(12px)
+}
+
+.YkJYY {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: column !important;
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+    overflow: visible !important
+}
+
+.z79H6 {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    background-color: #fff !important;
+    border: 2px solid #dbdbdb !important;
+    border-radius: 50% !important;
+    height: 18px !important;
+    margin-right: 8px !important;
+    -webkit-transition: .15s all linear !important;
+    transition: .15s all linear !important;
+    width: 18px !important
+}
+
+.z79H6:checked {
+    border: 5px solid #3897f0 !important
+}
+
+.XAiP- {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    color: #262626 !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 14px !important;
+    margin-top: 4px !important
+}
+
+.QxuJw {
+    border-bottom: solid 1px #262626 !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-flex: 1 !important;
+    -webkit-flex: 1 !important;
+    -ms-flex: 1 !important;
+    flex: 1 !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    opacity: .3 !important;
+    padding: 12px 0 !important;
+    text-transform: uppercase !important;
+    -webkit-transition: opacity 250ms ease-in-out !important;
+    transition: opacity 250ms ease-in-out !important
+}
+
+._07c0L .QxuJw {
+    border: 0 !important
+}
+
+.jkw7z {
+    opacity: 1 !important
+}
+
+.iXT5c {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    width: 100% !important
+}
+
+.j_2Hd {
+    border-radius: 6px !important;
+    border: 1px solid #efefef !important;
+    color: #262626 !important;
+    -webkit-box-flex: 1 !important;
+    -webkit-flex-grow: 1 !important;
+    -ms-flex-positive: 1 !important;
+    flex-grow: 1 !important;
+    font-size: 14px !important;
+    line-height: 30px !important;
+    margin: 0 !important;
+    overflow: visible !important;
+    padding: 4px 12px !important
+}
+
+.uMkC7 {
+    background: 0 0 !important
+}
+
+.RO68f {
+    background: #fafafa !important
+}
+
+.cb9Ul,
+.j_2Hd:focus {
+    outline: auto 2px #3b99fc !important;
+    outline: auto 5px -webkit-focus-ring-color !important;
+    outline-offset: -2px !important
+}
+
+.-wiOT.KowqB,
+.j_2Hd:disabled {
+    background-color: #efefef !important;
+    border-color: #dbdbdb !important;
+    color: #999 !important;
+    cursor: not-allowed !important
+}
+
+.j_2Hd::-webkit-input-placeholder {
+    color: #c7c7c7 !important;
+    opacity: 1 !important
+}
+
+.j_2Hd:-ms-input-placeholder,
+.j_2Hd::-ms-input-placeholder {
+    color: #c7c7c7 !important;
+    opacity: 1 !important
+}
+
+.j_2Hd::placeholder {
+    color: #c7c7c7 !important;
+    opacity: 1 !important
+}
+
+.j_2Hd::-ms-clear {
+    display: none !important;
+    height: 0 !important;
+    width: 0 !important
+}
+
+.j_2Hd[type=number]::-webkit-inner-spin-button,
+.j_2Hd[type=number]::-webkit-outer-spin-button {
+    height: auto !important
+}
+
+.j_2Hd[type=search],
+.j_2Hd[type=search]::-webkit-search-cancel-button,
+.j_2Hd[type=search]::-webkit-search-decoration {
+    -webkit-appearance: none !important
+}
+
+.-wiOT {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    border-radius: 6px !important;
+    border: 1px solid #efefef !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-flex: 1 !important;
+    -webkit-flex-grow: 1 !important;
+    -ms-flex-positive: 1 !important;
+    flex-grow: 1 !important;
+    -webkit-box-pack: justify !important;
+    -webkit-justify-content: space-between !important;
+    -ms-flex-pack: justify !important;
+    justify-content: space-between !important;
+    padding-right: 8px !important;
+    position: relative !important
+}
+
+._4eaDf {
+    border: 0 !important;
+    padding: 4px 9px !important;
+    width: 100% !important
+}
+
+._4eaDf:focus {
+    outline: 0 !important
+}
+
+.FhkBu,
+._HwM1 {
+    border: 1px solid #ed4956 !important
+}
+
+.cb9Ul,
+.t-XOq {
+    border: 1px solid #b2b2b2 !important
+}
+
+._4eaDf.t-XOq {
+    border: 0 !important
+}
+
+.lC7Ye,
+.uIHys {
+    border-color: #dbdbdb !important;
+    border-radius: 1000px !important
+}
+
+.uIHys {
+    padding-left: 20px !important
+}
+
+.lC7Ye {
+    padding-left: 11px !important
+}
+
+.B4Y_s {
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important
+}
+
+.lVhHa {
+    position: relative !important
+}
+
+.yPom5 {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    height: 100% !important;
+    width: 100% !important
+}
+
+._8KKY4 {
+    border: 0 !important;
+    padding: 4px 9px !important;
+    width: 100% !important
+}
+
+._8KKY4:focus {
+    outline: 0 !important
+}
+
+._8KKY4::-webkit-input-placeholder {
+    opacity: 0 !important
+}
+
+._8KKY4:-ms-input-placeholder,
+._8KKY4::-ms-input-placeholder {
+    opacity: 0 !important
+}
+
+._8KKY4::placeholder {
+    opacity: 0 !important
+}
+
+._1jEAS {
+    padding: 8px 8px 0 !important
+}
+
+.Oouko {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    bottom: 0 !important;
+    color: #c7c7c7 !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    font-size: 14px !important;
+    left: 0 !important;
+    margin: 3px 9px !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    top: 0 !important;
+    -webkit-transform-origin: left !important;
+    transform-origin: left !important;
+    -webkit-transition: -webkit-transform ease-out .1s !important;
+    transition: transform ease-out .1s !important;
+    transition: transform ease-out .1s, -webkit-transform ease-out .1s !important
+}
+
+.LX_qM {
+    -webkit-transform: scale(.714) translateY(-16px) !important;
+    transform: scale(.714) translateY(-16px)
+}
+
+.OI1cO {
+    background-color: #efefef !important;
+    border-color: #dbdbdb !important;
+    color: #999 !important;
+    cursor: not-allowed !important
+}
+
+.NcCcD {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    position: relative !important
+}
+
+.iwQA6 {
+    background-color: #fff !important;
+    line-height: 20px !important;
+    padding-left: 22px !important
+}
+
+.iwQA6::-webkit-input-placeholder {
+    color: transparent !important
+}
+
+.iwQA6:-ms-input-placeholder,
+.iwQA6::-ms-input-placeholder {
+    color: transparent !important
+}
+
+.iwQA6::placeholder {
+    color: transparent !important
+}
+
+.DWAFP {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    bottom: 0 !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    left: 50% !important;
+    max-width: 100% !important;
+    padding: 0 8px !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    top: 0 !important;
+    -webkit-transform: translateX(-50%) !important;
+    transform: translateX(-50%) !important;
+    -webkit-transition: left .15s ease-out, -webkit-transform .15s ease-out !important;
+    transition: left .15s ease-out, transform .15s ease-out !important;
+    transition: left .15s ease-out, transform .15s ease-out, -webkit-transform .15s ease-out !important
+}
+
+.DWAFP.RrSJm {
+    left: 0 !important;
+    -webkit-transform: translateX(0) !important;
+    transform: translateX(0)
+}
+
+.rwQu7 {
+    color: #999 !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 28px !important;
+    margin-left: 5px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important
+}
+
+.rKLaY {
+    border: 0 !important;
+    background: 0 0 !important;
+    padding: 0 !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important
+}
+
+.-qQT3 {
+    cursor: pointer !important
+}
+
+.-qQT3:active {
+    opacity: 1 !important
+}
+
+.xqRnw {
+    border: 0 !important;
+    padding: 0 !important;
+    position: absolute !important;
+    right: 4px !important;
+    top: 4px !important;
+    z-index: 1 !important
+}
+
+.N9d2H {
+    background-color: rgba(0, 0, 0, .8) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    backdrop-filter: blur(10px)
+}
+
+.oM3-t {
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: column !important;
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+    margin-left: 12px !important;
+    margin-top: 0 !important
+}
+
+@media (min-width:736px) {
+    ._RI9A {
+        -webkit-box-flex: 1 !important;
+        -webkit-flex: 1 1 auto !important;
+        -ms-flex: 1 1 auto !important;
+        flex: 1 1 auto !important
+    }
+
+     !important
+}
+
+@media (max-width:735px) {
+    ._RI9A {
+        -webkit-box-flex: 1 !important;
+        -webkit-flex: 1 1 0 !important;
+        -ms-flex: 1 1 0 !important;
+        flex: 1 1 0 !important
+    }
+
+     !important
+}
+
+@-webkit-keyframes IGCorePill_slideIn {
+    0% {
+        -webkit-transform: translateY(-100%) !important;
+        transform: translateY(-100%)
+    }
+
+    to {
+        -webkit-transform: translateY(0%) !important;
+        transform: translateY(0%)
+    }
+
+     !important
+}
+
+@keyframes IGCorePill_slideIn {
+    0% {
+        -webkit-transform: translateY(-100%) !important;
+        transform: translateY(-100%)
+    }
+
+    to {
+        -webkit-transform: translateY(0%) !important;
+        transform: translateY(0%)
+    }
+
+     !important
+}
+
+.tCibT {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    background: #fff !important;
+    border: 0 !important;
+    border-radius: 22px !important;
+    -webkit-box-shadow: 0 10px 45px rgba(0, 0, 0, .2) !important;
+    box-shadow: 0 10px 45px rgba(0, 0, 0, .2) !important;
+    color: #262626 !important;
+    cursor: pointer !important;
+    display: block !important;
+    font-weight: 600 !important;
+    outline: inherit !important;
+    overflow: hidden !important;
+    text-transform: inherit !important;
+    text-overflow: ellipsis !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    white-space: nowrap !important;
+    width: auto !important;
+    z-index: 1000 !important
+}
+
+.tCibT:active {
+    opacity: .7 !important
+}
+
+.dGjo4 {
+    -webkit-animation: IGCorePill_slideIn 300ms ease-in-out !important;
+    animation: IGCorePill_slideIn 300ms ease-in-out !important
+}
+
+.qq7_A {
+    background: #3897f0 !important;
+    color: #fff !important
+}
+
+.ppO4L {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    border: 1px solid #fff !important;
+    border-radius: 50% !important;
+    color: #fff !important;
+    -webkit-box-pack: center !important;
+    -webkit-justify-content: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important
+}
+
+._09UwY {
+    height: 20px !important;
+    width: 20px !important
+}
+
+._95jGW {
+    height: 16px !important;
+    width: 16px !important
+}
+
+.wGpcN {
+    height: 12px !important;
+    width: 12px !important
+}
+
+.MRIUi {
+    background-color: #ed4956 !important
+}
+
+.Uugwh {
+    background-image: -webkit-gradient(linear, right top, left bottom, from(#a307ba), color-stop(#ed4956), to(#fd8d32)) !important;
+    background-image: -webkit-linear-gradient(top right, #a307ba, #ed4956, #fd8d32) !important;
+    background-image: linear-gradient(to bottom left, #a307ba, #ed4956, #fd8d32)
+}
+
+@-webkit-keyframes IGCoreToastSlideIn {
+    0% {
+        top: -50px !important
+    }
+
+    to {
+        top: 6px !important
+    }
+
+     !important
+}
+
+@keyframes IGCoreToastSlideIn {
+    0% {
+        top: -50px !important
+    }
+
+    to {
+        top: 6px !important
+    }
+
+     !important
+}
+
+.Xtbiw {
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    -webkit-animation: IGCoreToastSlideIn .5s 1 !important;
+    animation: IGCoreToastSlideIn .5s 1 !important;
+    background-color: #fff !important;
+    border-radius: 8px !important;
+    -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, .2) !important;
+    box-shadow: 0 0 6px rgba(0, 0, 0, .2) !important;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: horizontal !important;
+    -webkit-box-direction: normal !important;
+    -webkit-flex-direction: row !important;
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+    left: 50% !important;
+    min-width: 240px !important;
+    padding: 16px !important;
+    position: fixed !important;
+    top: 6px !important;
+    -webkit-transform: translateX(-50%) !important;
+    transform: translateX(-50%)
+}
+
+._53hKm {
+    min-width: 320px !important
+}
+
+@media (max-width:735px) {
+    .Xtbiw {
+        width: 100% !important
+    }
+
+     !important
+}
+
+.BkYbe {
+    border: 0 !important
+}
+
+.Y_mhb {
+    border-right: 1px solid #efefef !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important
+}
+
+.OZ443 {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    background: 0 0 !important;
+    border: 0 !important;
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    cursor: pointer !important;
+    display: block !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    height: 100% !important;
+    padding: 0 !important;
+    text-align: center !important;
+    text-transform: inherit !important;
+    text-overflow: ellipsis !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    white-space: nowrap !important
+}
+
+@media (max-width:735px) {
+    .uY-0l {
+        max-height: calc(100vh - 92px)
+    }
+
+     !important
+}
+
+@media (min-width:736px) {
+    .uY-0l {
+        max-height: 288px !important
+    }
+
+    .a7-4X {
+        max-height: 380px !important;
+        max-width: 360px !important
+    }
+
+     !important
+}
+
+.hF-el {
+    border-top: 1px solid #efefef !important
+}
+
+.Embed,
+.PrimaryCTA,
+.Footer,
+.AvatarContainer,
+.HeaderText,
+.HeaderSecondaryContent,
+.EmbedFrame,
+.HoverCard,
+.HoverCard div {
+    -webkit-box-align: stretch;
+    font-weight: 400 !important;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    border: 0 solid #000;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.Embed {
+    border: 1px solid #ddd !important;
+    border-radius: 5px
+}
+
+.Caption a,
+.responsive-magazyn .Embed a {
+    font-weight: 500
+}
+
+.img-fluid {
+    max-width: 100%;
+}
+
+.PrimaryCTA span {
+    font-weight: 600 !important
+}
+
+.step-btn.button {
+    background: #fc0;
+    padding: 10px 15px;
+    font-size: 18px;
+    color: #1c3380;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 3px;
+    border: 0;
+    line-height: 40px;
+    display: inline-block;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    width: auto;
+    margin: 30px auto;
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+.article_wrapper {
+    background: #f9f9f9;
+    padding: 30px 15px;
+}
+
+.center {
+    display: table;
+    margin: 0 auto
+}
+
+.article_wrapper img {
+    max-width: 100%
+}
+
+.media,
+.warning {
+    display: -ms-flexbox;
+    display: flex;
+    align-content: center
+}
+
+.media {
+    border-top: 1px solid #E2E2E2;
+    padding: 10px 0
+}
+
+.warning {
+    justify-content: center;
+    align-items: center
+}
+
+.media-left {
+    flex: 0 0 50px;
+    margin-top: 2px !important
+}
+
+.media-object {
+    margin-top: 7px !important
+}
+
+.warn-img {
+    flex: 0 0 52px;
+    margin-right: 10px
+}
+
+.media-body {
+    padding-left: 10px
+}
+
+.media p {
+    padding-top: 3px;
+    color: #545454;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #1A1A1A;
+    line-height: 18px;
+    margin: 0 0 3px
+}
+
+.media-body a.media-heading {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #3B5998;
+    margin: 0 0 10px;
+    line-height: 20px;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.media-body p.bottom {
+    color: #3B5998;
+    font-size: 12px !important
+}
+
+
+
+.media-body p.bottom .time {
+    color: gray;
+    margin-left: 8px;
+    border-bottom: 1px dotted gray
+}
+
+.media-body img {
+    margin: 10px 0 7px;
+}
+
+.media-left img.media-object {
+    width: 50px;
+}
+
+._5lm5 {
+    border-top: 1px solid #e9ebee;
+    font-size: 11px;
+}
+
+._2pi3 {
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+._5lm5 {
+    border-top: 1px solid #e9ebee;
+    font-size: 11px;
+}
+
+._56q9 {
+    font-size: 14px;
+    line-height: 1.358;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+
+._5lm5 {
+    border-top: 1px solid #e9ebee;
+    font-size: 11px;
+}
+
+.responsive-magazyn ._42ef a {
+    color: #365899;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.sp_LOeZrtLvJp2 {
+    background-image: url(../img/MZWZDV6AbEB.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+}
+
+.sp_LOeZrtLvJp2.sx_a4f675 {
+    width: 14px;
+    height: 14px;
+    background-position: -20px -604px;
+}
+
+._ohe {
+    float: left;
+    margin-right: 5px;
+}
